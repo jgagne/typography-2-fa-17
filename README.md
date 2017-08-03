@@ -8,7 +8,7 @@
 ### Lessons
 
 1. [Bespoke Character](01-bespoke-character.md)
-2. [Meaningful Content](02-meaningful-content.md)
+2. [Semantic Content](02-semantic-content.md)
 3. `wip` Lean Product
 4. `wip` Responsive Publication
 
