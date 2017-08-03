@@ -205,8 +205,8 @@ p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time
 8. Publish via GitHub
 
 > Most proprietary DTP programs store data in binary file formats that can’t be read by most human beings. Some even encrypt their files to make sure that sure you can only access your work with their closed software. If such a file has been damaged, it’s close to impossible to repair it.
-
-[Because your data belongs to YOU](https://www.scribus.net/because-your-data-belongs-to-you/)
+>
+> [Because your data belongs to YOU](https://www.scribus.net/because-your-data-belongs-to-you/)
 
 ##### Page Description to Plain Text
 
