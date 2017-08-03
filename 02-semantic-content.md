@@ -2,7 +2,7 @@
 
 # Typography 2 / Lesson 2
 
-0. [Preface](#meaningful-content)
+0. [Preface](#semantic-content)
 1. [Brief](#brief)
 2. [Work & Rubric](#work-amp-rubric)
 3. [Warm-Up](#warm-up)
