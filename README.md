@@ -5,6 +5,7 @@
 >
 > —[Hermann Zapf](https://www.linotype.com/1494/the-lifestory-of-hermann-zapf.html), type designer, writer, calligrapher, and designer (1918–2015)
 
+
 ### Lessons
 
 1. [Bespoke Character](01-bespoke-character.md)
@@ -12,9 +13,16 @@
 3. `wip` Lean Product
 4. `wip` Responsive Publication
 
+
+### To-Dos
+
+- [Task List Gists](https://github.com/jgagne/typography-2-fa-17/issues/1)
+
+
 ### Author
 
 A course developed by Justin Gagne.
+
 
 ### License
 
