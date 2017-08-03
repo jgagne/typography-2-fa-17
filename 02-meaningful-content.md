@@ -15,6 +15,7 @@
 ## Meaningful Content
 
 ![Design Research Unit Manifesto](./img/02-design-research-unit-michelle-cotton.png)
+
 Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograph](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72).
 
 > “Content precedes design. Design in the absence of content is not design, it’s decoration.” —[Jeffrey Zeldman](https://www.zeldman.com/about/), designer, writer, and publisher
@@ -112,6 +113,7 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
 `20 points`
 
 ![Tracy Gelder Book Design](./img/02-tracy-gelder-book-sleeve.jpg)
+
 Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphic designer
 
 - [ ] Design, print, and make a sleeve or envelope for your manifest leaflet `#totalpackage` `#diecutbyhand` `#differentpaper`
@@ -209,6 +211,7 @@ Extras for BBEdit:
 *Not all lectures take place in class; some lectures get assigned as homework.*
 
 ![Markdown to HTML to InDesign Workflow](./img/02-md-html-indd-workflow.png)
+
 Markdown to HTML to InDesign Workflow `#import`
 
 1. [A History of Graphic Design Production](http://www.graphicmeans.com) `video` `#discussion`
@@ -220,6 +223,7 @@ Markdown to HTML to InDesign Workflow `#import`
 7. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `demos/02-md-html-indd-workflow` for reference) `#demo`
 
 ![InDesign to HTML and CSS Workflow](./img/02-indd-html-css-workflow.png)
+
 Indesign to HTML and CSS Workflow `#export`
 
 #### MD → HTML → InDesign → HTML and CSS: A Typesetting and Publishing Workflow for Print and Web
@@ -291,6 +295,7 @@ Indesign to HTML and CSS Workflow `#export`
 - [Legibility and Readability](http://smad.jmu.edu/shen/webtype/read.html)
 
 ![Jessica Hische’s Legibility Test](./img/02-jessica-hische-legibility-test.png)
+
 Does your site’s font pass the “il1” test? More insights on type from [Jessica Hische](http://jessicahische.is/talkingtype)
 
 #### Practical Typography for Print & Web

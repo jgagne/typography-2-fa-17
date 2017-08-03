@@ -17,6 +17,7 @@
 ## Bespoke Character
 
 ![Ampersand Pixel Preview](./img/01-ampersand-pixel-preview.png)
+
 Close-up of a 16 point ampersand set in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
 
 > “The ampersand is the one glyph where type designers are able to let loose and be a little more creative.” —[Jeremiah Shoaf](https://www.typewolf.com/about), freelance designer and editor of [Typewolf](https://www.typewolf.com)
