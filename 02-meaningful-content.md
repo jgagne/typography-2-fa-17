@@ -18,11 +18,17 @@
 
 Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograph](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72).
 
-> “Content precedes design. Design in the absence of content is not design, it’s decoration.” —[Jeffrey Zeldman](https://www.zeldman.com/about/), designer, writer, and publisher
+> “Content precedes design. Design in the absence of content is not design, it’s decoration.”
+>
+> —[Jeffrey Zeldman](https://www.zeldman.com/about/), designer, writer, and publisher
 
-> “Typographic style is founded not on any one technology of typesetting or printing, but on the primitive yet subtle craft of writing.” —[Robert Bringhurst](https://www.youtube.com/watch?v=oG-oYm1oTLE), poet, typographer and author
+> “Typographic style is founded not on any one technology of typesetting or printing, but on the primitive yet subtle craft of writing.”
+>
+> —[Robert Bringhurst](https://www.youtube.com/watch?v=oG-oYm1oTLE), poet, typographer and author
 
-> “Styles come and go. Good design is a language, not a style.” —[Massimo Vignelli](https://www.fastcodesign.com/3030621/rip-massimo-vignelli-one-of-the-greatest-20th-century-designers), designer (1931–2014)
+> “Styles come and go. Good design is a language, not a style.”
+>
+> —[Massimo Vignelli](https://www.fastcodesign.com/3030621/rip-massimo-vignelli-one-of-the-greatest-20th-century-designers), designer (1931–2014)
 
 Manifestos codify beliefs, a set of ideas and goals, published as a manifest or declaration in the form of phrases, paragraphs, and lists that influences the reader to copy, transform, and to take action. `#movement`
 
@@ -161,11 +167,17 @@ p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time
 
 ![Hello World PostScript Demo](./img/02-hello-world-ps-demo.png)
 
-> "Hello, world" is something universal, something bigger. It does not choose color or sex. It does not discriminate any programming language. Balancing the fine line between corny and genius it truly has stood the test of time. —[*Unsung Heroes of IT / Part One: Brian Kernighan*](http://theunsungheroesofit.com/helloworld/)
+> "Hello, world" is something universal, something bigger. It does not choose color or sex. It does not discriminate any programming language. Balancing the fine line between corny and genius it truly has stood the test of time.
+>
+> —[*Unsung Heroes of IT / Part One: Brian Kernighan*](http://theunsungheroesofit.com/helloworld/)
 
-> PostScript is a programming language, not really a page description language. By its very nature, it does not provide for really reliable end-to-end workflows since by definition, content can change on the fly. Fun for hackers, disaster for people who need to earn a living. —[Dov Isaacs](https://www.prepressure.com/postscript/basics/history), Principal Scientist, Adobe Systems Incorporated
+> PostScript is a programming language, not really a page description language. By its very nature, it does not provide for really reliable end-to-end workflows since by definition, content can change on the fly. Fun for hackers, disaster for people who need to earn a living.
+>
+> —[Dov Isaacs](https://www.prepressure.com/postscript/basics/history), Principal Scientist, Adobe Systems Incorporated
 
-> “Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.” —[Frank Chimero](https://www.frankchimero.com/about/), designer, writer, and illustrator
+> “Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.”
+>
+> —[Frank Chimero](https://www.frankchimero.com/about/), designer, writer, and illustrator
 
 ##### Instructor
 
@@ -192,7 +204,9 @@ p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time
 7. Make a new repo for this exercise with a `README.md` listing a comparison of *Hello, World!* code blocks in each markup language
 8. Publish via GitHub
 
-> Most proprietary DTP programs store data in binary file formats that can’t be read by most human beings. Some even encrypt their files to make sure that sure you can only access your work with their closed software. If such a file has been damaged, it’s close to impossible to repair it. [Because your data belongs to YOU](https://www.scribus.net/because-your-data-belongs-to-you/)
+> Most proprietary DTP programs store data in binary file formats that can’t be read by most human beings. Some even encrypt their files to make sure that sure you can only access your work with their closed software. If such a file has been damaged, it’s close to impossible to repair it.
+
+[Because your data belongs to YOU](https://www.scribus.net/because-your-data-belongs-to-you/)
 
 ##### Page Description to Plain Text
 

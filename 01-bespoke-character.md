@@ -20,7 +20,9 @@
 
 Close-up of a 16 point ampersand set in Trebuchet MS viewed in Illustrator’s Pixel Preview mode.
 
-> “The ampersand is the one glyph where type designers are able to let loose and be a little more creative.” —[Jeremiah Shoaf](https://www.typewolf.com/about), freelance designer and editor of [Typewolf](https://www.typewolf.com)
+> “The ampersand is the one glyph where type designers are able to let loose and be a little more creative.”
+>
+> —[Jeremiah Shoaf](https://www.typewolf.com/about), freelance designer and editor of [Typewolf](https://www.typewolf.com)
 
 The ampersand (&): once considered the 27th letter of the alphabet; born of a Latin phrase; now a long-standing character; rich in personality and history that’s become a favorite among designers and type designers alike.
 
@@ -115,7 +117,9 @@ Design an alternate `italic` style (slanted) ampersand, working from a scale of 
 
 ![Ampersand Grid Sketch Template](./img/01-ampersand-sketch-grid.png)
 
-> “Usually, letters help to form one another, by setting precedents and providing contexts. But the ampersand doesn’t receive any of that support. That makes it hard to draw, because so many different shapes might look plausible at first. But it also opens an unusually large window for experimentation and risk. It’s how the designer can put on a fireworks show in this one shape, especially in seriffed italics.” —[Tobias Frere-Jones](https://frerejones.com/about), one of the world’s leading typeface designers
+> “Usually, letters help to form one another, by setting precedents and providing contexts. But the ampersand doesn’t receive any of that support. That makes it hard to draw, because so many different shapes might look plausible at first. But it also opens an unusually large window for experimentation and risk. It’s how the designer can put on a fireworks show in this one shape, especially in seriffed italics.”
+>
+> —[Tobias Frere-Jones](https://frerejones.com/about), one of the world’s leading typeface designers
 
 #### Details
 
@@ -133,7 +137,9 @@ Design an alternate `italic` style (slanted) ampersand, working from a scale of 
 4. Sketch at least 8 ampersands in 30 minutes
 5. Repeat for homework, sans time limit
 
-> "If you haven’t surprised yourself yet, you haven’t done enough sketching." —[Josh Collinsworth](https://joshcollinsworth.com), designer
+> "If you haven’t surprised yourself yet, you haven’t done enough sketching."
+>
+> —[Josh Collinsworth](https://joshcollinsworth.com), designer
 
 ##### Materials
 
