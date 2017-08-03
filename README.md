@@ -9,8 +9,12 @@
 
 1. [Bespoke Character](01-bespoke-character.md)
 2. [Meaningful Content](02-meaningful-content.md)
-3. `wip` TBA
-4. `wip` TBA
+3. `wip` Lean Product
+4. `wip` Responsive Publication
+
+### Author
+
+A course developed by Justin Gagne.
 
 ### License
 
