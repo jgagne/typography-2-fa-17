@@ -216,11 +216,11 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 ### Design Criticism
 
-**Note:** Prefixed `[ ] →` links are required reading (or viewing). `#readme`
+*Please skim before attending design critiques.*
 
-- [ ] → [Discussing Design: The Art of Critique](https://www.slideshare.net/adamconnor/discussing-design-the-art-of-critique) `slides`
-- [ ] → [Design Criticism and the Creative Process](https://alistapart.com/article/design-criticism-creative-process)
-- [ ] → [9 Rules For Running A Productive Design Critique](https://www.fastcodesign.com/3019674/9-rules-for-running-a-productive-design-critique)
+- [Discussing Design: The Art of Critique](https://www.slideshare.net/adamconnor/discussing-design-the-art-of-critique) `slides`
+- [Design Criticism and the Creative Process](https://alistapart.com/article/design-criticism-creative-process)
+- [9 Rules For Running A Productive Design Critique](https://www.fastcodesign.com/3019674/9-rules-for-running-a-productive-design-critique)
 - [Sharing Our Work: Testing and Feedback in Design](https://alistapart.com/article/sharing-our-work-testing-feedback-in-design)
 - [I Don’t Like It](https://alistapart.com/column/i-dont-like-it)
 
