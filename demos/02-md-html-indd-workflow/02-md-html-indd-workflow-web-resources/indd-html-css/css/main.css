@@ -1,0 +1,57 @@
+/*
+
+# Clean-up InDesign Generated CSS (idGeneratedStyles.css)
+
+Use (1) CSS shorthand for font, margin, et al. properties for brevity, (2) em values for better web typography, and clean-up EPUB related CSS declarations.
+
+1. [Shrthnd](http://shrthnd.volume7.io)
+2. [Pixem](http://matthewkosloski.me/labs/pixem/)
+3. Script `wip`; manually Search, Find, and Replace
+
+*/
+
+/* --- body / section / page --- */
+
+body {
+  max-width: 60em;
+  padding: 2.25em;
+  margin: 0 auto;
+}
+
+/* --- headings --- */
+
+h1.heading {
+  font: normal normal bold 1.5em/1.4 "Trebuchet MS", sans-serif;
+  margin: 0 0 0.5em;
+}
+
+h2.subheading {
+  font: normal normal bold 1.125em/1.2 "Trebuchet MS", sans-serif;
+  margin: 0.5em 0;
+}
+
+/* --- body text/ basic paragraph --- */
+
+p.body-text {
+  font: normal normal normal 1em/1.5 "Trebuchet MS", sans-serif;
+  margin: 1em 0;
+}
+
+/* --- bulleted and numbered lists --- */
+
+ul.bulleted-list {
+  list-style: disc inside;
+  padding-left: 0;
+}
+
+li.bulleted-list-item {
+  font: normal normal normal 1em/1.5 "Trebuchet MS", sans-serif;
+  margin: .5em 0 0;
+}
+
+/* --- links --- */
+
+a.link {
+  color: #000;
+  text-decoration: underline;
+}

@@ -1,0 +1,55 @@
+%!PS-Adobe-3.1 EPSF-3.0
+%%Title: %!PS Hello, World!
+%%Creator: Authored in BBEdit by Justin Gagne, justin.gagne@montserrat.edu
+%%CreationDate: 7/9/17
+%%BoundingBox: 0 0 612 792
+%%Orientation: Portrait
+%
+
+gsave
+  /outputtext {
+    /data exch def
+    /rot exch def
+    /xfont exch def
+    /y1 exch def
+    /x1 exch def
+    /Courier findfont
+    xfont scalefont
+    setfont
+    x1 y1 moveto
+    rot rotate
+    data show
+    rot neg rotate
+  } def
+  % x y fontsize rotation (text) outputtext
+  0.5 setgray
+  36 300 12 0 (%!PS) outputtext
+  120 400 12 90 (%!PS) outputtext
+  36 500 12 90 (%!PS) outputtext
+  300 600 12 0 (%!PS) outputtext
+grestore
+
+gsave
+  /Courier findfont
+  12 scalefont
+  setfont
+  80 602 moveto
+  90 rotate
+  0 setgray
+  (PostScript) show
+grestore
+
+gsave
+  /Courier-Bold findfont  % Find and select the font by PostScript font name
+  36 scalefont
+  setfont                 % Set the size in points and set the font in use
+  72 504 moveto           % Position the current point at coordinates 72 (horizontal) and 504 (vertical)
+                          % (The origin is at the bottom-left [0, 0] corner of the page.)
+                          % Note: (72 points = 1 inch), 504 (504 points = 7 inches)
+  0 setgray               % Set level of gray; 0 = 0% (black); 0.5 = 50% (gray), 1 = 100% (white), etc.
+  (Hello, World!) show    % Show text in parentheses
+grestore
+
+showpage                % Print to page
+
+%%EOF
