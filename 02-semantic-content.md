@@ -243,7 +243,7 @@ Markdown to HTML to InDesign Workflow `#import`
 
 ![InDesign to HTML and CSS Workflow](./img/02-indd-html-css-workflow.png)
 
-Indesign to HTML and CSS Workflow `#export`
+InDesign to HTML and CSS Workflow `#export`
 
 #### MD → HTML → InDesign → HTML and CSS: A Typesetting and Publishing Workflow for Print and Web
 - Prepping, converting, and importing MD to XML to InDesign
