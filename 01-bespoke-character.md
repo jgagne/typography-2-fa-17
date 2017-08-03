@@ -32,6 +32,8 @@ Design a bespoke ampersand (&) for print and web, as an alternate glyph for a se
 
 ### Work & Rubric
 
+Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+
 #### Standard
 
 `20 points`
@@ -191,6 +193,8 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 
 By week, and task(s).
 
+Feel free to copy and paste to make a *Schedule* issue task list (update `- Task` to `- [ ] Task`). [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+
 1. Ideas, Learn, and Make
   - Kickoff meeting and lecture
   - Warm-Up
@@ -220,7 +224,10 @@ By week, and task(s).
 - [Sharing Our Work: Testing and Feedback in Design](https://alistapart.com/article/sharing-our-work-testing-feedback-in-design)
 - [I Don’t Like It](https://alistapart.com/column/i-dont-like-it)
 
+
 ### Readings & Resources
+
+Copy and paste section into a new `issue` within your repo and title it as *Readings & Resources*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 **Note:** Prefixed `[ ] →` links are required reading (or viewing). `#readme`
 
@@ -338,7 +345,7 @@ By week, and task(s).
 ### Books & Magazines
 
 - [*In Progress* by Jessica Hische](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
-- [ ] → [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
+- [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
 - [Typenotes Magazine](https://shop.fontsmith.com) `#buyme`
 
 ### Software

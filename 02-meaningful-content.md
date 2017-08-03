@@ -34,6 +34,8 @@ Revive and layout a manifesto, of your choice, for today’s readers of print an
 
 ### Work & Rubric
 
+Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
+
 #### Standard
 
 `20 points`
@@ -125,6 +127,8 @@ Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphi
 ### Schedule
 
 By week, and task(s).
+
+Feel free to copy and paste to make a *Schedule* issue task list (update `- Task` to `- [ ] Task`). [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 1. Ideas, Learn, and Make
   - Kickoff meeting and lecture
@@ -233,7 +237,10 @@ Indesign to HTML and CSS Workflow `#export`
 - Exporting InDesign to HTML and CSS
 - Cleaning up InDesign generated HTML and CSS for better readability and web typography
 
+
 ### Readings & Resources
+
+Copy and paste section into a new `issue` within your repo and title it as *Readings & Resources*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 **Note:** Prefixed `[ ] →` links are required reading (or viewing). `#readme`
 
