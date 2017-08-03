@@ -5,7 +5,7 @@
 0. [Preface](#bespoke-character)
 1. [Brief](#brief)
 2. [Work & Rubric](#work-amp-rubric)
-3. [Warm-up](#warm-up)
+3. [Warm-Up](#warm-up)
 3. [Lectures](#lectures)
 5. [Schedule](#schedule)
 6. [Design Criticism](#design-criticism)
@@ -105,7 +105,7 @@ Design an alternate `italic` style (slanted) ampersand, working from a scale of 
 - [ ] One banner type size @ 16em x 16em, `svg` format
 
 
-### Warm-up
+### Warm-Up
 
 `60 minutes`
 
@@ -193,7 +193,7 @@ By week, and task(s).
 
 1. Ideas, Learn, and Make
   - Kickoff meeting and lecture
-  - Warm-up
+  - Warm-Up
   - Research and work session
   - Meeting and lecture(s)
   - First draft `wip` ampersand sketches — paper and digital

@@ -5,7 +5,7 @@
 0. [Preface](#meaningful-content)
 1. [Brief](#brief)
 2. [Work & Rubric](#work-amp-rubric)
-3. [Warm-up](#warm-up)
+3. [Warm-Up](#warm-up)
 3. [Lectures](#lectures)
 5. [Schedule](#schedule)
 6. [Readings & Resources](#readings-amp-resources)
@@ -128,7 +128,7 @@ By week, and task(s).
 
 1. Ideas, Learn, and Make
   - Kickoff meeting and lecture
-  - Warm-up
+  - Warm-Up
   - Research and work session
   - Meeting and lecture(s)
   - Selected Manifesto authored in Markdown
@@ -149,7 +149,7 @@ By week, and task(s).
 p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)
 p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time.php)
 
-### Warm-up
+### Warm-Up
 
 `90 minutes`
 
