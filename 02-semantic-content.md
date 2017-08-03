@@ -156,8 +156,9 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
  - Proofing and printing (at school or print shop) and publishing (GitHub)
  - `eow` Final review
 
-p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)
-p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time.php)
+*p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)*
+
+*p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time.php)*
 
 ### Warm-Up
 
