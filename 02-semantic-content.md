@@ -116,7 +116,7 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
 
 - - -
 
-#### Wrap-up (Extra Credit)
+#### Wrap-Up (Extra Credit)
 
 `20 points`
 
