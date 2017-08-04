@@ -194,7 +194,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 `30 minutes`
 
-1. Author, view, and save a simple `Hello, world!` example in PS, SVG, MD, and HTML and CSS
+1. Author, view, and save a simple `Hello, World!` example in PS, SVG, MD, and HTML and CSS
 2. Save `.ps` as `.eps` and open within Illustrator and inspect each text node
  - PostScript is still the underlying language behind Illustrator. We just set type by hand using a text editor instead of Illustrator or InDesign
 3. Print out typeset
@@ -239,7 +239,7 @@ Markdown to HTML to InDesign Workflow `#import`
 4. [*Typesetting Body Text* with Tim Brown](https://vimeo.com/156203722) `video` `#demo`
 5. Choosing and Using Web Fonts `#reference` [*Web Typography* by Richard Rutter](http://www.book.webtypography.net)
 6. Content First Design, Content Out Layout, and Breakpoints
-7. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `demos/02-md-html-indd-workflow` for reference) `#demo`
+7. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `/demos/02-md-html-indd-workflow/` for reference) `#demo`
 
 ![InDesign to HTML and CSS Workflow](./img/02-indd-html-css-workflow.png)
 
