@@ -4,11 +4,11 @@
 
 0. [Preface](#semantic-content)
 1. [Brief](#brief)
-2. [Work & Rubric](#work-amp-rubric)
+2. [Work & Rubric](#work--rubric)
 3. [Warm-Up](#warm-up)
 3. [Lectures](#lectures)
 5. [Schedule](#schedule)
-6. [Readings & Resources](#readings-amp-resources)
+6. [Readings & Resources](#readings--resources)
 7. [Books](#books)
 8. [Software](#software)
 

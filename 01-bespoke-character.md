@@ -4,13 +4,13 @@
 
 0. [Preface](#bespoke-character)
 1. [Brief](#brief)
-2. [Work & Rubric](#work-amp-rubric)
+2. [Work & Rubric](#work--rubric)
 3. [Warm-Up](#warm-up)
 3. [Lectures](#lectures)
 5. [Schedule](#schedule)
 6. [Design Criticism](#design-criticism)
-7. [Readings & Resources](#readings-amp-resources)
-8. [Books & Magazines](#books-amp-magazines)
+7. [Readings & Resources](#readings--resources)
+8. [Books & Magazines](#books--magazines)
 9. [Software](#software)
 
 
