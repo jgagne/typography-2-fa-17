@@ -42,7 +42,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 - [ ] Sketches begin on paper: graph, grid, dot, etc. (capture and document your process)
 - [ ] Maintain a repo for this project on GitHub with sketches et al. assets (`.indd`, `.idml`, `.html`, etc.)
-- [ ] Use of InDesign, Illustrator, or Sketch for ampersand design, and InDesign and Text Editor (HTML & CSS) for layout `#nophotoshop` `#nodreamweaverormuse`
+- [ ] Use of InDesign, Illustrator, or Sketch for ampersand design, and InDesign and Text Editor (HTML & CSS) for layout `#nophotoshop` `#nodreamweaver` `#nomuse`
 - [ ] Use of black only, designer black or rich black, no grayscale
 
 #### Different Designs for Different Sizes
