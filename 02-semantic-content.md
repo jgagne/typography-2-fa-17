@@ -406,6 +406,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 #### PDF
 
+- [ ] → [Hello World](https://www.adobe.com/content/dam/Adobe/en/technology/pdfs/Future_of_PDF_Flash.pdf) (see pg. 7–12) `pdf`
 - [ ] → [Introducing Next-Generation PDF (Keynote)](https://www.pdfa.org/slides-and-video-recordings-of-the-pdf-days-europe-2017/) `video`
 
 ### Hot Metal Type
