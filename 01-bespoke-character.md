@@ -51,10 +51,10 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 Design an alternate `normal` or `bold` weight ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16 pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px).
 
-- [ ] One favicon @ 1em x 1em, `.png` and `.ico` format
-- [ ] One display type size @ 2em x 2em, `svg` format
-- [ ] One display type size @ 3em x 3em, `svg` format
-- [ ] One banner type size @ 16em x 16em, `svg` format
+- [ ] One favicon @ 1em x 1em (save as `.ai`, `svg`, `.png`, and `.ico`)
+- [ ] One display type size @ 2em x 2em (save as `.ai` and `.svg`)
+- [ ] One display type size @ 3em x 3em (save as `.ai` and `.svg`)
+- [ ] One banner type size @ 16em x 16em (save as `.ai` and `.svg`)
 
 #### Character
 
@@ -103,10 +103,10 @@ Design a single-page, responsive webpage based on a simplified version of your p
 
 Design an alternate `italic` style (slanted) ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16 pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px).
 
-- [ ] One favicon @ 1em x 1em, `.png` and `.ico` format
-- [ ] One display type size @ 2em x 2em, `svg` format
-- [ ] One display type size @ 3em x 3em, `svg` format
-- [ ] One banner type size @ 16em x 16em, `svg` format
+- [ ] One favicon @ 1em x 1em (save as `.ai`, `svg`, `.png`, and `.ico`)
+- [ ] One display type size @ 2em x 2em (save as `.ai` and `.svg`)
+- [ ] One display type size @ 3em x 3em (save as `.ai` and `.svg`)
+- [ ] One banner type size @ 16em x 16em (save as `.ai` and `.svg`)
 
 
 ### Warm-Up
