@@ -152,9 +152,10 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
   - `eow` Review and feedback (`1:1` and GitHub comments)
 3. Review and Takeaways
  - Revise modular scale and layout(s) after proofing on paper and testing on smartphone and laptop/desktop browsers
- - Production-ready leaflet and webpage layout and HTML/CSS
- - Proofing and printing (at school or print shop) and publishing (GitHub)
- - `eow` Final review
+ - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your leaflet, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745)
+ - Production-ready leaflet layout in InDesign and webpage layout in HTML/CSS for final feedback and review
+ - Leaflet proofing and printing (at school or a print shop) `#printafew`
+ - `eow` Presentation and review of completed work
 
 *p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)*
 
