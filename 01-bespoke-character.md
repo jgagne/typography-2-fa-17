@@ -91,7 +91,7 @@ Design a single-page, responsive webpage based on a simplified version of your p
 - [ ] Use of CSS Grid Layout and media queries for small-to-wide responsive layout
 - [ ] Use of optimized SVG files for ampersands with flexible images HTML and CSS
 - [ ] Exclusive use of selected web safe font for all other text: headings, body text, captions, etc.
-- [ ] Link ampersand favicon `.ico` and 512px x 512px `.png` for a Twitter/OG image
+- [ ] Link ampersand favicon `.ico` and Twitter/OG image (512px x 512px) `.png`
 
 - - -
 
