@@ -214,11 +214,13 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
   - Revised `wip` ampersand sketches — paper and digital
   - Revised `wip` poster and website layout comps — digital only
   - `eow` Review and feedback (`1:1` and GitHub comments)
-3. Review and Takeaways
+3. Review, Deliverables, and Takeaways
  - Final ampersand sketches — digital only
- - Production-ready poster and webpage layout and HTML/CSS
- - Proofing and printing (at school or print shop) and publishing (GitHub)
- - `eow` Final review
+ - Production-ready poster layout in InDesign and webpage layout in HTML/CSS for final feedback and review
+ - Poster proofing and printing (at school or a print shop) `#printafew`
+ - Webpage testing and publishing (via GitHub) on smartphone, tablet, laptop, desktop, etc.
+ - Presentation of webpage: Layout [full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots) of small and wide screen views with added minimal browser chrome (download and edit [`.ai`](https://www.behance.net/gallery/11005655/Free-Chrome-Browser-Mockup-Design-Template-Vector)/[`.sketch`](https://dribbble.com/shots/3525505-Minimal-Browser-Template) template) on an 11in x 17in (landscape orientation); print in color and on a [good heavy weight bright white laser paper](https://www.staples.com/Hammermill-11-inch-x-17-inch-60-lbs-Ultra-Smooth-Color-Copy-Digital-Cover/product_194936) `#buypaper`
+ - `eow` Presentation and review of completed work
 
 ### Design Criticism
 
