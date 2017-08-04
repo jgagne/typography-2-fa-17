@@ -24,7 +24,7 @@ Close-up of a 16 point ampersand set in Trebuchet MS viewed in Illustrator’s P
 >
 > —[Jeremiah Shoaf](https://www.typewolf.com/about), freelance designer and editor of [Typewolf](https://www.typewolf.com)
 
-The ampersand (&): once considered the 27th letter of the alphabet; born of a Latin phrase; now a long-standing character; rich in personality and history that’s become a favorite among designers and type designers alike.
+The ampersand (&) — once considered the 27th letter of the alphabet; born of a Latin phrase; now a long-standing character, rich in personality and history, that’s become a favorite among designers and type designers alike.
 
 
 ### Brief
