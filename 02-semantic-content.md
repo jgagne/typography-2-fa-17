@@ -54,7 +54,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Don’t mess with lowercase letter-spacing
 - [ ] Adjust letter-spacing when setting in all-caps
 - [ ] Get your kerning settings right `#metric
-- [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#staylegal`
+- [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
 - [ ] Exclusively use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
 
 #### Details
@@ -111,7 +111,7 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
   - `BBEdit` > `Markup` > `Utilities` > `Format…`
   - `Atom` > `Preferences…` > `Install` (Install Packages) > `atom-beautify`(Search Packages) > `Install`
 - [ ] Use CSS shorthand, [Shrthnd](http://shrthnd.volume7.io), for `font`, `margin`, et al. properties for brevity
-- [ ] Use `em` values for better web typography;`px` to `em` via [Pixem](http://matthewkosloski.me/labs/pixem/)
+- [ ] Use `em` values for better web typography; `px` to `em` via [Pixem](http://matthewkosloski.me/labs/pixem/)
 - [ ] Validate markup and style using [HTML Validation](https://validator.w3.org) and [CSS Validation](https://jigsaw.w3.org/css-validator/) services
 
 - - -
@@ -146,7 +146,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 2. Iterate, Revise, and Repeat
   - Meeting and lecture(s)
   - Develop and apply responsive typographic modular scale
-  - `wip` Draft manifesto typeset and single-column layout for print and web
+  - `wip` Draft manifesto typesetting and single-column layout for print and web
   - `wip` Sketches for printed 4-page layout and single-page website
   - `eow` Publish all `wip` files to GitHub
   - `eow` Review and feedback (`1:1` and GitHub comments)
@@ -158,7 +158,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 *p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)*
 
-*p.p.s [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time.php)*
+*p.p.s. [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time.php)*
 
 ### Warm-Up
 
@@ -196,8 +196,8 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 1. Author, view, and save a simple `Hello, world!` example in PS, SVG, MD, and HTML and CSS
 2. Save `.ps` as `.eps` and open within Illustrator and inspect each text node
- - PostScript is still the underlying language behind Illustrator. We just did a typeset by hand using a text editor instead of Illustrator or InDesign
-3. Print out
+ - PostScript is still the underlying language behind Illustrator. We just set type by hand using a text editor instead of Illustrator or InDesign
+3. Print out typeset
 4. Place the `.eps` in InDesign and inspect each text node
   - What happens? Why? `#discussion`
 5. Open Lesson 1’s *And Per Sketch* ampersand sketch grid `.indd` and save as`.idml`
@@ -348,7 +348,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 #### Typographic Scale
 
 - [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
-- [Don’t Compose Without a Scale”](http://webtypography.net/3.1.1)
+- [Don’t Compose Without a Scale](http://webtypography.net/3.1.1)
 - [ ] → [A More Modern Scale for Web Typography](http://typecast.com/blog/a-more-modern-scale-for-web-typography)
 - [The Typographic Scale](http://spencermortensen.com/articles/typographic-scale/)
 - [Modular Scale](http://www.modularscale.com)
