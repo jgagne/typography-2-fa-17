@@ -8,9 +8,10 @@
 3. [Warm-Up](#warm-up)
 3. [Lectures](#lectures)
 5. [Schedule](#schedule)
-6. [Readings & Resources](#readings--resources)
+6. [Design Criticism](#design-criticism)
 7. [Books](#books)
-8. [Software](#software)
+7. [Readings & Resources](#readings--resources)
+9. [Software](#software)
 
 ## Semantic Content
 
@@ -255,6 +256,9 @@ InDesign to HTML and CSS Workflow `#export`
 - Exporting InDesign to HTML and CSS
 - Cleaning up InDesign generated HTML and CSS for better readability and web typography
 
+### Design Criticism
+
+[*Please skim before attending design critiques.*](01-bespoke-character.md/#design-criticism)
 
 ### Readings & Resources
 
