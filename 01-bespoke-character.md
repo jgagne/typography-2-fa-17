@@ -1,4 +1,4 @@
-← [`ls`](README.md)
+← [`ls`](README.md#lessons)
 
 # Typography 2 / Lesson 1
 
