@@ -97,11 +97,11 @@ Design a single-page, responsive webpage based on a simplified version of your p
 
 #### Style (Extra Credit)
 
-*True italic*, not fake, slanted.
+True italic; not fake, *slanted*.
 
 `20 points`
 
-Design an alternate `italic` style (slanted) ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
+Design an alternate *slanted* `italic` style ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
 
 - [ ] One favicon @ 1em x 1em
 - [ ] One display type size @ 2em x 2em
