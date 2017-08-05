@@ -189,21 +189,23 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 2. Discuss, demo, and compare markup languages for print and web design, the evolution of page description to plain text, and the benefits of separating presentational and structural semantics for better accessibility and readability
   - Present `02-hello-world-ps-layout.eps` as an example of layout in a text editor and a browser using PostScript (see `/warm-ups/02-hello-world-ps-layout/` for reference)
 3. Demo how to extend BBEdit’s support for PostScript syntax highlighting and MD to HTML conversion
-4. Demo how to author, view, and save a `Hello, World!` example in PS, SVG, MD, and HTML and CSS
+4. Demo how to author, view, and save a `Hello, World!` example in PS, SVG, MD, and HTML/CSS
 
 ##### Student(s)
 
 `30 minutes`
 
-1. Author, view, and save a simple `Hello, World!` example in PS, SVG, MD, and HTML and CSS
+1. Author, view, and save a simple `Hello, World!` example in PS, SVG, MD, and HTML/CSS
 2. Save `.ps` as `.eps` and open within Illustrator and inspect each text node
- - PostScript is still the underlying language behind Illustrator. We just set type by hand using a text editor instead of Illustrator or InDesign
-3. Print out typeset
-4. Place the `.eps` in InDesign and inspect each text node
+ - PostScript is still the underlying language behind Illustrator. We just set type by hand using a text editor, like you would in Illustrator or InDesign, but without the GUI WYSIWYG tools
+3. Place the `.eps` in InDesign and inspect each text node
   - What happens? Why? `#discussion`
-5. Open Lesson 1’s *And Per Sketch* ampersand sketch grid `.indd` and save as`.idml`
-6. Open that `.idml` in a text editor; check out the `Stories` folder and the accessible content and readable format of `.xml`
-7. Make a new repo for this exercise with a `README.md` listing a comparison of *Hello, World!* code blocks in each markup language
+4. Open *And Per Sketch* ampersand sketch grid `.indd` (from Lesson 1) and save as `.idml`
+5. Open that `.idml` in a text editor; check out the `Stories` folder and the accessible content and readable format of `.xml`
+6. Open the `.svg` example in Illustrator and inspect
+ - SVG is an XML-based open web standard for vector images on the web; developed by the World Wide Web Consortium (W3C) since 1999
+ - Caveat: InDesign doesn’t support SVG (import or export). `#thanksadobe` `#eps`
+7. Make a new repo for this exercise with a `README.md` listing a comparison of `Hello, World!` code blocks in each markup language
 8. Publish via GitHub
 
 > Most proprietary DTP programs store data in binary file formats that can’t be read by most human beings. Some even encrypt their files to make sure that sure you can only access your work with their closed software. If such a file has been damaged, it’s close to impossible to repair it.
