@@ -9,8 +9,8 @@
 3. [Lectures](#lectures)
 5. [Schedule](#schedule)
 6. [Design Criticism](#design-criticism)
-7. [Books](#books)
 7. [Readings & Resources](#readings--resources)
+8. [Books & Magazines](#books--magazines)
 9. [Software](#software)
 
 ## Semantic Content
