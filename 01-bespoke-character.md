@@ -49,7 +49,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 `20 points`
 
-Design an alternate `normal` or `bold` weight ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16 pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards; export as individual `.png` and `.svg`, and `.ico` (for favicon) files.
+Design an alternate `normal` or `bold` weight ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16 pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
 
 - [ ] One favicon @ 1em x 1em
 - [ ] One display type size @ 2em x 2em
@@ -101,7 +101,7 @@ Design a single-page, responsive webpage based on a simplified version of your p
 
 `20 points`
 
-Design an alternate `italic` style (slanted) ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16 pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards; export as individual `.png` and `.svg`, and `.ico` (for favicon) files.
+Design an alternate `italic` style (slanted) ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16 pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
 
 - [ ] One favicon @ 1em x 1em
 - [ ] One display type size @ 2em x 2em
