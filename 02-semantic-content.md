@@ -30,7 +30,7 @@ Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograp
 >
 > —[Massimo Vignelli](https://www.fastcodesign.com/3030621/rip-massimo-vignelli-one-of-the-greatest-20th-century-designers), designer (1931–2014)
 
-Manifestos codify beliefs, a set of ideas and goals, published as a manifest or declaration in the form of phrases, paragraphs, and lists that influences the reader to copy, transform, and to take action. `#movement`
+Manifestos codify beliefs, a set of ideas and goals, published as a manifest or declaration in the form of phrases, paragraphs, and lists that influence the reader to copy, transform, and take action. `#movement`
 
 From hot to cold metal lockup; to photographic and xerographic paste-up; to Bézier curves and PostScript; and from paper to screen; to paperless workflows and online publishing with PDF, HTML, and CSS; to the easy-to-read, easy-to-write text-to-HTML formatting syntax of Markdown and the desktop publishing champion — InDesign; to the manifestation of human and machine friendly markup and style for printers, screens, and designers alike. The tools and technology of the design industry, past and present, inspire and govern our process and output. How we decide and define the design language, tools, and workflows we use — should be as meaningful as the content and intent in which we design and layout.
 
