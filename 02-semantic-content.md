@@ -422,14 +422,16 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [ ] → [1966–2016 | The Last Hot-Type Printer Puts Down His Tools](https://www.nytimes.com/2016/06/02/insider/1966-2016-the-last-hot-type-printer-puts-down-his-tools.html)
 
 
-### Books
+### Books & Magazines
 
 - [Web Typography](http://www.book.webtypography.net) `#buyme`
-- [Butterick’s Practical Typography](http://practicaltypography.com) `#donate`
-- [Explorations in Typography](http://explorationsintypography.com)
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
+- [Butterick’s Practical Typography](http://practicaltypography.com) `#donate`
+- [Explorations in Typography (Second Edition)](http://explorationsintypography.com)
 - [Responsive Web Design (Second Edition)](https://abookapart.com/products/responsive-web-design)
 - [HTML5 for Web Designers (Second Edition)](https://abookapart.com/products/html5-for-web-designers)
+- [HTML5 for Web Designers (Website / First Edition)](https://html5forwebdesigners.com) `#free`
+- [Baseline Magazine](http://blog.baselinemagazine.com) `blog`
 
 
 ### Software
