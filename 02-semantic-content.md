@@ -258,7 +258,12 @@ InDesign to HTML and CSS Workflow `#export`
 
 ### Design Criticism
 
-[*Please skim before attending design critiques.*](01-bespoke-character.md/#design-criticism)
+*Please skim before attending design critiques.*
+
+- [Cut the Shit Sandwich](http://muledesign.com/2017/05/cut-the-shit-sandwich)
+- [Finding the Positive in Negative Feedback](https://deardesignstudent.com/finding-the-positive-in-negative-feedback-8f7dfa2b7da5)
+- [Design Criticism and the Creative Process](https://alistapart.com/article/design-criticism-creative-process)
+- [Sharing Our Work: Testing and Feedback in Design](https://alistapart.com/article/sharing-our-work-testing-feedback-in-design)
 
 ### Readings & Resources
 

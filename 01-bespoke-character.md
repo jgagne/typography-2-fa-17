@@ -228,10 +228,6 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 - [9 Rules For Running A Productive Design Critique](https://www.fastcodesign.com/3019674/9-rules-for-running-a-productive-design-critique)
 - [Discussing Design: The Art of Critique](https://www.slideshare.net/adamconnor/discussing-design-the-art-of-critique) `slides`
-- [Cut the Shit Sandwich](http://muledesign.com/2017/05/cut-the-shit-sandwich)
-- [Finding the Positive in Negative Feedback](https://deardesignstudent.com/finding-the-positive-in-negative-feedback-8f7dfa2b7da5)
-- [Design Criticism and the Creative Process](https://alistapart.com/article/design-criticism-creative-process)
-- [Sharing Our Work: Testing and Feedback in Design](https://alistapart.com/article/sharing-our-work-testing-feedback-in-design)
 - [I Don’t Like It](https://alistapart.com/column/i-dont-like-it)
 
 
