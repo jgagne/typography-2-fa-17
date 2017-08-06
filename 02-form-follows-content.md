@@ -1,6 +1,7 @@
 ← [`ls`](README.md#lessons)
 
-# Typography 2 / Lesson 2
+# Typography 2
+## Lesson 2
 
 0. [Preface](#form-follows-content)
 1. [Brief](#brief)
@@ -14,7 +15,7 @@
 - [Paper](#paper)
 - [Software](#software)
 
-## Form Follows Content
+# Form Follows Content
 
 ![Design Research Unit Manifesto](./img/02-design-research-unit-michelle-cotton.png)
 
@@ -38,17 +39,17 @@ From hot to cold metal lockup, to photographic and xerographic paste-up, to Béz
 
 - - -
 
-### Brief
+## Brief
 
 Revive and layout a manifesto, of your choice, for today’s readers of print and web using a semantic design language, workflow, and a back-to-basics content and structure focused approach to better, more practical, typography.
 
 - - -
 
-### Work & Rubric
+## Work & Rubric
 
 Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
-#### Standard
+### Standard
 
 `20 points`
 
@@ -63,7 +64,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
 - [ ] Exclusively use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
 
-#### Details
+### Details
 
 `20 points`
 
@@ -89,7 +90,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Single-column layout for small screens and multi-column layout, *only if the content decides*, for laptop/desktop and print `#keepitsimple`
 
 
-#### Form & Function
+### Form & Function
 
 `20 points`
 
@@ -99,7 +100,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Based on the two (2) *sweet spot* body text and line spacing combinations, create a responsive typographic modular scale  for headings, body text, small print, etc. both for small screens and print `#realcontent`
 - [ ] Apply modular scale to layout: spacing between paragraphs and list items, line spacing, line length, page margins, etc.
 
-#### Experience & Imagination
+### Experience & Imagination
 
 `20 points`
 
@@ -108,7 +109,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Legibility & Readability
 - [ ] Harmony
 
-#### Best Practices
+### Best Practices
 
 `20 points`
 
@@ -123,7 +124,7 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
 
 - - -
 
-#### Wrap-Up (Extra Credit)
+### Wrap-Up (Extra Credit)
 
 `20 points`
 
@@ -138,7 +139,7 @@ Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphi
 
 - - -
 
-### Schedule
+## Schedule
 
 By week, and task(s).
 
@@ -171,11 +172,11 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 - - -
 
-### Warm-Up
+## Warm-Up
 
 `90 minutes`
 
-#### Hello, World!
+### Hello, World!
 
 ![Hello World PostScript Demo](./img/02-hello-world-ps-demo.png)
 
@@ -191,7 +192,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 >
 > —[Frank Chimero](https://www.frankchimero.com/about/), designer, writer, and illustrator
 
-##### Instructor
+### Instructor
 
 `60 minutes`
 
@@ -201,7 +202,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 3. Demo how to extend BBEdit’s support for PostScript syntax highlighting and MD to HTML conversion
 4. Demo how to author, view, and save a `Hello, World!` example in PS, SVG, MD, and HTML/CSS
 
-##### Student(s)
+### Student(s)
 
 `30 minutes`
 
@@ -222,14 +223,14 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 >
 > [Because your data belongs to YOU](https://www.scribus.net/because-your-data-belongs-to-you/)
 
-##### Page Description to Plain Text
+### Page Description to Plain Text
 
 - PS, [PostScript](https://en.wikipedia.org/wiki/PostScript)
 - SVG, [Scalable Vector Graphics](https://www.w3.org/TR/SVG11/)
 - MD, [Markdown](https://daringfireball.net/projects/markdown/)
 - HTML and CSS, [Hypertext Markup Language](https://www.w3.org/TR/html51/) and [Cascading Style Sheets](https://www.w3.org/TR/CSS21/)
 
-##### Install
+### Install
 
 Extras for BBEdit:
 
@@ -240,7 +241,7 @@ Extras for BBEdit:
 
 - - -
 
-### Lectures
+## Lectures
 
 *Not all lectures take place in class; some lectures get assigned as homework.*
 
@@ -260,7 +261,7 @@ Markdown to HTML to InDesign Workflow `#import`
 
 InDesign to HTML and CSS Workflow `#export`
 
-#### MD → HTML → InDesign → HTML and CSS: A Typesetting and Publishing Workflow for Print and Web
+### MD → HTML → InDesign → HTML and CSS: A Typesetting and Publishing Workflow for Print and Web
 - Prepping, converting, and importing MD to XML to InDesign
 - Benefitting from semantic markup and style through meaningful terminology, and naming conventions
 - Mapping HTML inline (text) and block (sections, grouping, etc.) elements to InDesign Character and Paragraph Styles
@@ -269,7 +270,7 @@ InDesign to HTML and CSS Workflow `#export`
 
 - - -
 
-### Design Criticism
+## Design Criticism
 
 *Please skim before attending design critiques.*
 
@@ -280,13 +281,13 @@ InDesign to HTML and CSS Workflow `#export`
 
 - - -
 
-### Readings & Resources
+## Readings & Resources
 
 Copy and paste section into a new `issue` within your repo and title it as *Readings & Resources*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 **Note:** Prefixed `[ ] →` links are required reading (or viewing). `#readme`
 
-#### Manifestos
+### Manifestos
 
 - [ ] → [Manifesto](http://www.manifestoproject.it)
 - [ ] → [Manifesto Mania](http://www.aiga.org/manifesto-mania)
@@ -297,7 +298,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [The Open Web Design Manifesto](http://blog.froont.com/manifesto/)
 - [10 Rules for Students, Teachers, and Life by John Cage and Sister Corita Kent](https://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/)
 
-#### Inspiration
+### Inspiration
 
 - [ ] → [Design Research Unit, 1942–1972](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72)
 - [8vo: type and structure](http://www.eyemagazine.com/feature/article/8vo-type-and-structure)
@@ -307,17 +308,17 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [*Design and the Play Instinct* by Paul Rand](http://www.paul-rand.com/foundation/thoughts_designAndthePlayInstinct/)
 - [Baseline Magazine](http://blog.baselinemagazine.com) `blog`
 
-#### Content-Based Layout
+### Content-Based Layout
 
 - [ ] → [Content-out Layout](https://alistapart.com/article/content-out-layout)
 - [A New Canon](http://www.markboulton.co.uk/journal/anewcanon)
 - [ ] → [Content First Web Design: What It’s About and How to Get Started](https://blogs.adobe.com/creativecloud/content-first-web-design-what-its-about-and-how-to-get-started/)
 
-#### Style Tiles
+### Style Tiles
 
 - [Style Tiles and How They Work](https://alistapart.com/article/style-tiles-and-how-they-work)
 
-#### Choosing Fonts
+### Choosing Fonts
 
 - [ ] → [Choosing the Right Type](http://jessicahische.is/talkingtype) `#scrolldown`
 - [ ] → [Finding Fonts – A Guide](http://learn.scannerlicker.net/2017/08/02/finding-fonts-a-guide/)
@@ -325,20 +326,20 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [On Choosing Type](http://ilovetypography.com/2008/04/04/on-choosing-type/)
 - [What Font Should I Use? 5 Principles for Choosing and Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/)
 
-#### Combining Fonts
+### Combining Fonts
 
 - [ ] → [Four Techniques for Combining Fonts](https://www.typography.com/techniques/)
 - [ ] → [How to Use Clashing Fonts](https://www.typography.com/blog/fonts-that-clash)
 - [Typographic Doubletakes](https://www.typography.com/blog/typographic-doubletakes)
 
-#### Body Text Sizing
+### Body Text Sizing
 
 - [ ] →  [How We Learned to Leave Default `font-size` Alone and Embrace the `em`](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
 - [ ] →  [CSS Font Sizing](https://bitsofco.de/css-font-sizing/)
 - [ ] →  [*More Perfect Typography* with Tim Brown](https://vimeo.com/17079380) `video`
 - [ ] →  [*Typesetting Body Text* with Tim Brown](https://vimeo.com/156203722) `video`
 
-#### Legibility & Readability
+### Legibility & Readability
 
 - [ ] → [How We Read](https://alistapart.com/article/how-we-read)
 - [ ] → [On Legibility – In Typography And Type Design](http://learn.scannerlicker.net/2014/11/14/on-legibility-in-typography-and-type-design/)
@@ -349,7 +350,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 Does your site’s font pass the “il1” test? More insights on type from [Jessica Hische](http://jessicahische.is/talkingtype)
 
-#### Practical Typography for Print & Web
+### Practical Typography for Print & Web
 
 - [ ] → [*On Web Typography* with Jason Santa Maria](https://vimeo.com/34178417) `video`
 - [ ] → [Web Typography Overview](http://smad.jmu.edu/shen/webtype/)
@@ -358,7 +359,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Typography Handbook](http://typographyhandbook.com)
 - [Professional Web Typography](https://prowebtype.com)
 
-#### Web Fonts & Tools
+### Web Fonts & Tools
 
 - [Google Fonts](https://fonts.google.com)
 - [Font Squirrel](https://www.fontsquirrel.com)
@@ -367,14 +368,14 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Webfont Test: Test up to three fonts](http://webfont-test.com)
 - [Web Font Test Tool](http://www.impallari.com/testing/)
 
-#### Font Formats
+### Font Formats
 
 - [Font Format](http://smad.jmu.edu/shen/webtype/format.html) Pre WOFF2 and Variable TTF and WOFF2 variations
 - [WOFF 2.0 - Web Open Font Format ](http://caniuse.com/#feat=woff2) TrueType/OpenType font that provides better compression than WOFF 1.0
 - [ ] → [Variable Fonts: the Future of (Web) Type](http://typographica.org/on-typography/variable-fonts/)
 - [Welcome to Variable Fonts!](https://type.today/en/journal/opentype_variables)
 
-#### Typographic Scale
+### Typographic Scale
 
 - [More Meaningful Typography](https://alistapart.com/article/more-meaningful-typography)
 - [Don’t Compose Without a Scale](http://webtypography.net/3.1.1)
@@ -382,35 +383,35 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [The Typographic Scale](http://spencermortensen.com/articles/typographic-scale/)
 - [Modular Scale](http://www.modularscale.com)
 
-#### Typographic Details
+### Typographic Details
 
 - [ ] → [Finely tuned typography: sweating the small stuff](http://www.monotype.com/resources/webinars/finely-tuned-typography-sweating-the-small-stuff/)
 
-#### Formatting Lists
+### Formatting Lists
 
 - [ ] → [Bulleted and Numbered Lists](http://practicaltypography.com/bulleted-and-numbered-lists.html)
 - [Create Bulleted or Numbered Lists](https://helpx.adobe.com/indesign/using/bullets-numbering.html)
 - [Formatting Tips for Bullets and Numbered Lists](https://indesignsecrets.com/formatting-tips-bullets-numbered-lists.php)
 
-#### InDesign Resources & Tools
+### InDesign Resources & Tools
 
 - [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`
 - [MultiDo](https://www.65bit.com/software/easyhistory/) Free `Edit` > `Undo` & `Redo` Plug-in
 
-#### MD → HTML → InDesign Workflow
+### MD → HTML → InDesign Workflow
 
 - [From Word to Markdown to InDesign](http://rhythmus.be/md2indd/)
 - [ ] → [Importing HTML into InDesign (via XML)](http://networkcultures.org/digitalpublishing/2014/05/15/import-html-into-indesign-via-xml/)
 - [Digital Publishing Toolkit](https://github.com/DigitalPublishingToolkit)
 
-#### Markdown
+### Markdown
 
 - [ ] → [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [ ] → [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 - [HackMD](https://hackmd.io/) Write and Share Your Knowledge in Markdown
 - [Markdown Quiz](http://www.markdownquiz.com)
 
-#### HTML & CSS Semantics
+### HTML & CSS Semantics
 
 - [ ] → [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
 - [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
@@ -419,16 +420,16 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [W3C HTML Checker](https://validator.w3.org/nu/) Validate markup and check document outline
 - [W3C CSS Checker](https://jigsaw.w3.org/css-validator/)
 
-#### Markup & Style Standards Guides
+### Markup & Style Standards Guides
 
 - [ ] → [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://codeguide.co)
 - [Style Manual ](http://stylemanual.org)
 
-#### Accessibility
+### Accessibility
 
 - [ ] → [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
 
-#### PostScript
+### PostScript
 
 - [ ] → [Postscript and Geometry](http://merganser.math.gvsu.edu/david/psseminar/)
 - [A First Guide to PostScript](http://www.tailrecursive.org/postscript/postscript.html)
@@ -436,19 +437,19 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [ ] → [Adobe Co-founder John Warnock on the Competitive Advantages of Aesthetics and the ‘Right’ Technology](http://knowledge.wharton.upenn.edu/article/adobe-co-founder-john-warnock-on-the-competitive-advantages-of-aesthetics-and-the-right-technology/)
 - [Adobe PostScript: The Language of Business](https://www.youtube.com/watch?v=Ayb-KF32uWk) `video`
 
-#### PDF
+### PDF
 
 - [ ] → [Hello World](https://www.adobe.com/content/dam/Adobe/en/technology/pdfs/Future_of_PDF_Flash.pdf) (see pg. 7–12) `pdf`
 - [ ] → [Introducing Next-Generation PDF (Keynote)](https://www.pdfa.org/slides-and-video-recordings-of-the-pdf-days-europe-2017/) `video`
 
-#### Hot Metal Type
+### Hot Metal Type
 
 - [ ] → [The End of an Era: A Short Film About The Last Day of Hot Metal Typesetting at The New York Times (1978)](http://www.openculture.com/2015/08/the-end-of-an-era-a-short-film-about-the-last-day-of-hot-metal-typesetting-at-the-new-york-times-1978.html) `video`
 - [ ] → [1966–2016 | The Last Hot-Type Printer Puts Down His Tools](https://www.nytimes.com/2016/06/02/insider/1966-2016-the-last-hot-type-printer-puts-down-his-tools.html)
 
 - - -
 
-### Books
+## Books
 
 - [Web Typography](http://www.book.webtypography.net) `#buyme`
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
@@ -459,7 +460,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - - -
 
-### Paper
+## Paper
 
 - [French Paper Co.](http://www.frenchpaper.com)
 - [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
@@ -469,9 +470,9 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - - -
 
-### Software
+## Software
 
-#### Text Editor
+### Text Editor
 
 Pick a *free* flavor…
 
@@ -479,15 +480,15 @@ Pick a *free* flavor…
 - [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only)
 - [Brackets](http://brackets.io)
 
-#### Favicon Generator
+### Favicon Generator
 
 - [ICO converter](https://www.icoconverter.com)
 
-#### Digital & Icon Design
+### Digital & Icon Design
 
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Sketch](https://www.sketchapp.com)
 
-#### Print Design & Layout
+### Print Design & Layout
 
 - [InDesign](https://www.adobe.com/products/indesign.html)

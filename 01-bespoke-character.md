@@ -1,6 +1,7 @@
 ← [`ls`](README.md#lessons)
 
-# Typography 2 / Lesson 1
+# Typography 2
+## Lesson 2
 
 0. [Preface](#bespoke-character)
 1. [Brief](#brief)
@@ -15,7 +16,7 @@
 - [Paper](#paper)
 - [Software](#software)
 
-## Bespoke Character
+# Bespoke Character
 
 ![Ampersand Pixel Preview](./img/01-ampersand-pixel-preview.png)
 
@@ -29,17 +30,17 @@ The ampersand (&) — once considered the 27th letter of the alphabet; born of a
 
 - - -
 
-### Brief
+## Brief
 
 Design a bespoke ampersand (&) for print and web, as an alternate glyph for a serif, sans-serif, or monospace web safe font.
 
 - - -
 
-### Work & Rubric
+## Work & Rubric
 
 Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
-#### Standard
+### Standard
 
 `20 points`
 
@@ -48,7 +49,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Use of InDesign, Illustrator, or Sketch for ampersand design, and InDesign and Text Editor (HTML & CSS) for layout `#nophotoshop` `#nodreamweaver` `#nomuse`
 - [ ] Use of black only, designer black or rich black, no grayscale
 
-#### Different Designs for Different Sizes
+### Different Designs for Different Sizes
 
 `20 points`
 
@@ -59,7 +60,7 @@ Design an alternate `normal` or `bold` weight ampersand, working from a scale of
 - [ ] One display type size @ 3em x 3em
 - [ ] One banner type size @ 16em x 16em
 
-#### Character
+### Character
 
 `20 points`
 
@@ -68,7 +69,7 @@ Design an alternate `normal` or `bold` weight ampersand, working from a scale of
 - [ ] Whimsical (emotion)
 - [ ] Elegant (bézier curves)
 
-#### Printed Matter (Print Matters)
+### Printed Matter (Print Matters)
 
 `20 points`
 
@@ -85,7 +86,7 @@ Design a poster, comparing and contrasting the web safe font’s original ampers
     - [French Paper Co.](http://www.frenchpaper.com) offers a lot of choices for 19in x 25in cut sheet paper in a range of colors and weights, and can be ordered in small counts of 25 (extra sheets come in handy) for under $35–50. Considering ordering paper in groups to save on costs `#frenchpaper`
     - **Note:** Paper stock in heavier weights will not run through a large format photocopier with good results; a paper jam or uneven toner coverage and fusing will result `#avoid`
 
-#### Screen Time
+### Screen Time
 
 `20 points`
 
@@ -98,7 +99,7 @@ Design a single-page, responsive webpage based on a simplified version of your p
 
 - - -
 
-#### Style (Extra Credit)
+### Style (Extra Credit)
 
 True italic; not fake, *slanted*.
 
@@ -113,11 +114,11 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 
 - - -
 
-### Warm-Up
+## Warm-Up
 
 `60 minutes`
 
-#### And Per Sketch
+### And Per Sketch
 
 ![Ampersand Grid Sketch Template](./img/01-ampersand-sketch-grid.png)
 
@@ -125,15 +126,15 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 >
 > —[Tobias Frere-Jones](https://frerejones.com/about), one of the world’s leading typeface designers
 
-#### Details
+### Details
 
-##### Instructor
+### Instructor
 
 1. As a class watch [*My Life in Typefaces* with Matthew Carter](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
 2. As a class, discuss the importance and process of drawing type and watch [On Sketching](https://vimeo.com/11491627) `video`
 3. Demo how to create an InDesign grid template for sketching using the gridify technique with custom character, paragraph, and object styles (see `/warm-ups/01-ampersand-sketch-grid/` for reference)
 
-##### Student(s)
+### Student(s)
 
 1. Select a serif, sans-serif, or monospace web safe font
 2. Setup and save ampersand sketch grid
@@ -145,22 +146,22 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 >
 > —[Josh Collinsworth](https://joshcollinsworth.com), designer
 
-##### Materials
+### Materials
 
 - A [good dark drawing pencil](https://www.leadfast.org/blog/2017/3/9/apsara-absolute-pencil-review), black pen or fine marker, and a [good eraser](http://apenchantforpaper.blogspot.com/2012/07/great-eraser-review-pentel-hi-polymer.html)
 
-##### Web Safe Fonts
+### Web Safe Fonts
 
 Select from the safest, most widely supported system fonts on Mac and Win, of the web safe fonts.
 
-###### Serif
+### Serif
 
 - [Georgia](https://en.wikipedia.org/wiki/Georgia_(typeface))
   - Matthew Carter, Microsoft, 1993
 - [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman)
   - Stanley Morrison, *The Times*, 1931
 
-###### Sans-serif
+### Sans-serif
 
 - [Arial](https://en.wikipedia.org/wiki/Arial)
   - Robin Nicholas and Patricia Saunders, IBM, 1982
@@ -173,27 +174,27 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 - [Verdana](https://en.wikipedia.org/wiki/Verdana)
   - Matthew Carter, Microsoft, 1996
 
-###### Monospace
+### Monospace
 
 - [Courier](https://en.wikipedia.org/wiki/Courier_(typeface))
   - Howard “Bud” Kettler, IBM, 1955
 - [Courier New](https://en.wikipedia.org/wiki/Courier_(typeface)#Courier_New)
   -  Redrawn by Adrian Frutiger, IBM, 1961
 
-##### Hints
+### Hints
 
 - [Sketching Out of My Comfort Zone: A Type Design Experiment](http://typographica.org/on-typography/sketching-out-of-my-comfort-zone-a-type-design-experiment/)
 - [Typeface Mechanics: 001](https://frerejones.com/blog/typeface-mechanics-001/)
 - [Daily Typesketch](https://www.flickr.com/photos/ninastoessinger/sets/72157629933739982/)
 - [Gridify Magic](https://indesignsecrets.com/tip-week-gridify-magic.php)
 
-##### Extras
+### Extras
 
 - [The Grid System](http://thegridsystem.net/tags/indesign/)
 
 - - -
 
-### Lectures
+## Lectures
 
 1. [Bezier Curves and Type Design: A Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 2. Working with SVG
@@ -201,7 +202,7 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 
 - - -
 
-### Schedule
+## Schedule
 
 By week, and task(s).
 
@@ -230,7 +231,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 - - -
 
-### Design Criticism
+## Design Criticism
 
 *Please skim before attending design critiques.*
 
@@ -240,13 +241,13 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 - - -
 
-### Readings & Resources
+## Readings & Resources
 
 Copy and paste section into a new `issue` within your repo and title it as *Readings & Resources*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 **Note:** Prefixed `[ ] →` links are required reading (or viewing). `#readme`
 
-#### Ampersand (&)
+### Ampersand (&)
 
 - [ ] → [This is What Happens When You Put Out a Call to Designers For Ampersands](https://eyeondesign.aiga.org/this-is-what-happens-when-you-put-out-a-call-for-ampersands/)
 - [ ] → [Why Designers Love The Ampersand](https://www.fastcodesign.com/3055622/why-designers-love-the-ampersand)
@@ -256,7 +257,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [Our Middle Name](https://www.typography.com/blog/our-middle-name)
 - [Use the Best Available Ampersand](http://vault.simplebits.com/notebook/2008/08/14/ampersands-2/) `#classic`
 
-#### Inspiration
+### Inspiration
 
 - [ ] → [Ampersand, &C.](http://uncommon-typography.tumblr.com)
 - [ampersandampersand](http://ampersandampersand.tumblr.com)
@@ -276,7 +277,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [An alphabet made from classic rock band logos](http://kottke.org/17/07/an-alphabet-made-from-classic-rock-band-logos)
 - [Type Thursday (Medium)](https://medium.com/type-thursday)
 
-#### Type Design
+### Type Design
 
 - [ ] → [Design Notes: The Ampersand (&)](http://letterpunch.blogspot.com/2014/10/glyph-design-ampersand.html)
 - [ ] → [Typographic Trickery Shifts a Font From Paper to Pixels](https://www.wired.com/2016/10/typographic-trickery-shifts-font-paper-pixels/)
@@ -284,47 +285,47 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [Bezier Curves and Type Design: A Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 - [ ] → [Lo-Res by Zuzana Licko](http://www.emigre.com/EFfeature.php?di=101)
 
-#### Font Hinting
+### Font Hinting
 
 - [ ] → [Font Hinting](https://www.typotheque.com/articles/hinting)
 - [ ] → [Font Hinting and the Future of Responsive Typography](https://alistapart.com/column/font-hinting-and-the-future-of-responsive-typography)
 - [ ] → [Type rendering on the web](https://blog.typekit.com/2010/10/05/type-rendering-on-the-web/) `#part-1-of-5`
 
-#### Web Safe Fonts
+### Web Safe Fonts
 
 - [Interview with Matthew Carter](http://playgallery.org/stories/carter/)
 - [ ] → [The Myth of web-safe fonts](http://code.stephenmorley.org/html-and-css/the-myth-of-web-safe-fonts/)
 - [CSS Font Stack](http://www.cssfontstack.com) (`gte 90%` support on both Mac & Win)
 - [CSS Web Safe Fonts](http://www.ianbesler.com/fonts/)
 
-#### Verdana
+### Verdana
 
 - [ ] → [Typographically Speaking: A Conversation with Matthew Carter](https://vimeo.com/140351682) `video`
 - [Channel Verdana](https://www.microsoft.com/typography/web/fonts/verdana/)
 
-#### Type Sizes
+### Type Sizes
 
 - [Text v. Display](https://www.fonts.com/content/learning/fontology/level-1/type-anatomy/text-v-display)
 
-#### Italic
+### Italic
 
 - [Fake vs. True Italics](https://www.marksimonson.com/notebook/view/FakevsTrueItalics)
 - [Italics Examined](https://www.typography.com/blog/italics-examined)
 
-#### Alternate Glyphs
+### Alternate Glyphs
 
 - [Locating Alternate Glyphs](https://www.fonts.com/content/learning/fontology/level-4/fine-typography/locating-alternate-glyphs)
 
-#### Typographic Terms
+### Typographic Terms
 
 - [Typography Deconstructed](https://typedecon.com)
 - [Explorations in Typography](http://explorationsintypography.com/first-edition/glossary/)
 
-#### Designer Black
+### Designer Black
 
 - [The Professional Designer’s Guide to using Black](http://www.andrewkelsall.com/the-professional-designers-guide-to-using-black/)
 
-#### Bézier Curve
+### Bézier Curve
 
 - [ ] → [The Adobe Illustrator Story](https://vimeo.com/95415863) `video`
 - [The Benefits Of OpenType/CFF Over TrueType](https://blog.typekit.com/2010/12/02/the-benefits-of-opentypecff-over-truetype/)
@@ -335,51 +336,51 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [The Bézier Game](http://bezier.method.ac)
 - [Vector icon speed runs](https://bjango.com/articles/iconspeedruns/)
 
-#### SVG
+### SVG
 
 - [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
 
-#### HTML
+### HTML
 
 - [ ] → [HTML5 for Web Designers (Website / First Edition)](https://html5forwebdesigners.com) `#free`
 - [ ] → [HTML5 Element Index](http://html5doctor.com/#glossary)
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 - [W3C HTML Checker](https://validator.w3.org/nu/) Validate markup and check document outline
 
-#### CSS
+### CSS
 
 - [ ] → [Learn CSS Grid](http://learncssgrid.com)
 - [W3C CSS Checker](https://jigsaw.w3.org/css-validator/)
 
-#### Paper Prototyping
+### Paper Prototyping
 
 - [Printable Grids for Design Wireframing](http://sneakpeekit.com)
 
 - - -
 
-### Books
+## Books
 
 - [*In Progress* by Jessica Hische](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
 
 - - -
 
-### Magazines
+## Magazines
 
 - [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
 - [Typenotes Magazine](https://shop.fontsmith.com) `#buyme`
 
 - - -
 
-### Paper
+## Paper
 
 - [French Paper Co.](http://www.frenchpaper.com)
 - [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
 
 - - -
 
-### Software
+## Software
 
-#### Text Editor
+### Text Editor
 
 Pick a *free* flavor…
 
@@ -387,21 +388,21 @@ Pick a *free* flavor…
 - [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only)
 - [Brackets](http://brackets.io)
 
-#### SVG Optimization
+### SVG Optimization
 
 - [SVGOMG!](https://jakearchibald.github.io/svgomg/)
 
-#### Favicon Tools
+### Favicon Tools
 
 - [ICO converter](https://www.icoconverter.com) `#free`
 - [Icon Slate](http://www.kodlian.com/apps/icon-slate)
 - [Favicon Markup](http://iconhandbook.co.uk/reference/examples/favicons/)
 
-#### Digital & Icon Design
+### Digital & Icon Design
 
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
 - [Sketch](https://www.sketchapp.com)
 
-#### Print Design & Layout
+### Print Design & Layout
 
 - [InDesign](https://www.adobe.com/products/indesign.html)
