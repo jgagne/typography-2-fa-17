@@ -15,7 +15,6 @@
 - [Paper](#paper)
 - [Software](#software)
 
-
 ## Bespoke Character
 
 ![Ampersand Pixel Preview](./img/01-ampersand-pixel-preview.png)
@@ -345,10 +344,12 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [HTML5 for Web Designers (Website / First Edition)](https://html5forwebdesigners.com) `#free`
 - [ ] → [HTML5 Element Index](http://html5doctor.com/#glossary)
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
+- [W3C HTML Checker](https://validator.w3.org/nu/) Validate markup and check document outline
 
 #### CSS
 
 - [ ] → [Learn CSS Grid](http://learncssgrid.com)
+- [W3C CSS Checker](https://jigsaw.w3.org/css-validator/)
 
 #### Paper Prototyping
 

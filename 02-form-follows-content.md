@@ -14,7 +14,6 @@
 - [Paper](#paper)
 - [Software](#software)
 
-
 ## Form Follows Content
 
 ![Design Research Unit Manifesto](./img/02-design-research-unit-michelle-cotton.png)
@@ -417,6 +416,8 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
 - [HTML5 Element Index](http://html5doctor.com/#glossary)
 - [The Book](http://www.shadycharacters.co.uk/books/the-book) `#buyme`
+- [W3C HTML Checker](https://validator.w3.org/nu/) Validate markup and check document outline
+- [W3C CSS Checker](https://jigsaw.w3.org/css-validator/)
 
 #### Markup & Style Standards Guides
 
