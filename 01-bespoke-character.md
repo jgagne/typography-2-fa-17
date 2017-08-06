@@ -267,7 +267,6 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [An alphabet made from classic rock band logos](http://kottke.org/17/07/an-alphabet-made-from-classic-rock-band-logos)
 - [Type Thursday (Medium)](https://medium.com/type-thursday)
 
-
 #### Type Design
 
 - [ ] → [Design Notes: The Ampersand (&)](http://letterpunch.blogspot.com/2014/10/glyph-design-ampersand.html)
@@ -312,6 +311,10 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [Typography Deconstructed](https://typedecon.com)
 - [Explorations in Typography](http://explorationsintypography.com/first-edition/glossary/)
 
+#### Designer Black
+
+- [The Professional Designer’s Guide to using Black](http://www.andrewkelsall.com/the-professional-designers-guide-to-using-black/)
+
 #### Bézier Curve
 
 - [ ] → [The Adobe Illustrator Story](https://vimeo.com/95415863) `video`
@@ -339,13 +342,10 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [Printable Grids for Design Wireframing](http://sneakpeekit.com)
 
-#### Designer Black
-
-- [The Professional Designer’s Guide to using Black](http://www.andrewkelsall.com/the-professional-designers-guide-to-using-black/)
-
 #### Paper
 
 - [French Paper Co.](http://www.frenchpaper.com)
+- [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
 
 
 ### Books & Magazines
