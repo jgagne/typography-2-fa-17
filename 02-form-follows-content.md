@@ -91,7 +91,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 `20 points`
 
 - [ ] Select two to three different typefaces or fonts (weights and styles) for typesetting headings, body text, etc.
-  - **Reminder:** *All fonts must be legally eligible for web embedding* `#honorEULAs`
+  - **Reminder:** *All fonts must be legally eligible for web embedding* [You Wouldn’t Think It, But Typeface Piracy Is a Big Problem](https://www.wired.com/2015/10/you-wouldnt-think-it-but-typeface-piracy-is-a-big-problem/)`#honorEULAs`
 - [ ] Determine the *sweet spot* body text and line spacing combination, separately, for small screens and print `#paragraphstyles`
 - [ ] Based on the two (2) *sweet spot* body text and line spacing combinations, create a responsive typographic modular scale  for headings, body text, small print, etc. both for small screens and print `#realcontent`
 - [ ] Apply modular scale to layout: spacing between paragraphs and list items, line spacing, line length, page margins, etc.
