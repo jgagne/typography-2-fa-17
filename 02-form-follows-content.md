@@ -306,6 +306,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [INtroducing IN-Pratica: The Italian Design Manifesto](http://www.printmag.com/design-culture-2/italian-design-manifesto/)
 - [The Labour Party Manifesto 2017](http://www.labour.org.uk/index.php/manifesto2017)
 - [ ] → [*Design and the Play Instinct* by Paul Rand](http://www.paul-rand.com/foundation/thoughts_designAndthePlayInstinct/)
+- [Baseline Magazine](http://blog.baselinemagazine.com) `blog`
 
 #### Content-Based Layout
 
@@ -405,21 +406,22 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 #### Markdown
 
+- [ ] → [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [ ] → [Markdown Cheatsheet](https://github.com/tchapi/markdown-cheatsheet)
 - [HackMD](https://hackmd.io/) Write and Share Your Knowledge in Markdown
 - [Markdown Quiz](http://www.markdownquiz.com)
+
+#### HTML & CSS Semantics
+
+- [ ] → [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
+- [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [HTML5 Element Index](http://html5doctor.com/#glossary)
+- [The Book](http://www.shadycharacters.co.uk/books/the-book) `#buyme`
 
 #### Markup & Style Standards Guides
 
 - [ ] → [Code Guide: Standards for developing flexible, durable, and sustainable HTML and CSS](http://codeguide.co)
 - [Style Manual ](http://stylemanual.org)
-
-#### Semantics
-
-- [ ] → [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
-- [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
-- [ ] → [HTML5 Element Index](http://html5doctor.com/#glossary)
-- [The Book](http://www.shadycharacters.co.uk/books/the-book) `#buyme`
 
 #### Accessibility
 

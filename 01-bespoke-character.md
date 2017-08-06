@@ -342,6 +342,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 #### HTML
 
+- [ ] → [HTML5 for Web Designers (Website / First Edition)](https://html5forwebdesigners.com) `#free`
+- [ ] → [HTML5 Element Index](http://html5doctor.com/#glossary)
 - [A delightful reference for HTML Symbols, Entities and ASCII Character Codes](https://www.toptal.com/designers/htmlarrows/)
 
 #### CSS
@@ -360,7 +362,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - - -
 
-Magazines
+### Magazines
 
 - [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
 - [Typenotes Magazine](https://shop.fontsmith.com) `#buyme`
