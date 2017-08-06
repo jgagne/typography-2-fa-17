@@ -458,7 +458,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - - -
 
-#### Paper
+### Paper
 
 - [French Paper Co.](http://www.frenchpaper.com)
 - [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
