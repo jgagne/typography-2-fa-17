@@ -83,6 +83,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Design for all screen sizes, small (mobile first) to wide (laptop/desktop and print) `#responsive`
 - [ ] Single-column layout for small screens and multi-column layout, *only if the content decides*, for laptop/desktop and print `#keepitsimple`
 
+
 #### Form & Function
 
 `20 points`
@@ -422,11 +423,18 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [ ] → [Hello World](https://www.adobe.com/content/dam/Adobe/en/technology/pdfs/Future_of_PDF_Flash.pdf) (see pg. 7–12) `pdf`
 - [ ] → [Introducing Next-Generation PDF (Keynote)](https://www.pdfa.org/slides-and-video-recordings-of-the-pdf-days-europe-2017/) `video`
 
-### Hot Metal Type
+#### Hot Metal Type
 
 - [ ] → [The End of an Era: A Short Film About The Last Day of Hot Metal Typesetting at The New York Times (1978)](http://www.openculture.com/2015/08/the-end-of-an-era-a-short-film-about-the-last-day-of-hot-metal-typesetting-at-the-new-york-times-1978.html) `video`
 - [ ] → [1966–2016 | The Last Hot-Type Printer Puts Down His Tools](https://www.nytimes.com/2016/06/02/insider/1966-2016-the-last-hot-type-printer-puts-down-his-tools.html)
 
+#### Paper
+
+- [French Paper Co.](http://www.frenchpaper.com)
+- [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
+- [Neenah Fine Papers](http://www.neenahpaper.com/finepaper)
+- [Neenah Class Crest Papers](http://www.neenahpaper.com/finepaper/classiccrestpapers/productdetail?type=sample&color=Solar%20White&finish=Smooth) `#ordersamples`
+- [Neenah Color Copy Papers](http://www.neenahpaper.com/finepaper/morebrands/neenahcolorcopy/productdetail?color=Solar+White&finish=Super+Smooth) `#ordersamples`
 
 ### Books & Magazines
 
