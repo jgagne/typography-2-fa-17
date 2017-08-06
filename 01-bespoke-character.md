@@ -374,7 +374,7 @@ Pick a *free* flavor…
 
 ### Favicon Tools
 
-- [ICO converter](https://www.icoconverter.com) `#free`
+- [ICO converter](https://www.icoconverter.com)
 - [Icon Slate](http://www.kodlian.com/apps/icon-slate)
 - [Favicon Markup](http://iconhandbook.co.uk/reference/examples/favicons/)
 
