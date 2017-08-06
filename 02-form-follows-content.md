@@ -240,7 +240,7 @@ Extras for BBEdit:
 Markdown to HTML to InDesign Workflow `#import`
 
 1. [A History of Graphic Design Production](http://www.graphicmeans.com) `video` `#discussion`
-2. [*Do We Need to Write Markup?* by Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#discussion`
+2. [*Do We Need to Write Markup?* by Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#first34m` `#discussion`
 3. [*Designing in the Browser* by Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
 4. [*More Perfect Typography* by Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
 5. [*Typesetting Body Text* by Tim Brown](https://vimeo.com/156203722) `video` `#demo`
