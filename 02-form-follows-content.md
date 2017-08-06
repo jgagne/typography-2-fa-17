@@ -240,12 +240,13 @@ Extras for BBEdit:
 Markdown to HTML to InDesign Workflow `#import`
 
 1. [A History of Graphic Design Production](http://www.graphicmeans.com) `video` `#discussion`
-2. [*Designing in the Browser* with Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
-3. [*More Perfect Typography* with Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
-4. [*Typesetting Body Text* with Tim Brown](https://vimeo.com/156203722) `video` `#demo`
-5. Choosing and Using Web Fonts `#reference` [*Web Typography* by Richard Rutter](http://www.book.webtypography.net)
-6. Content First Design, Content Out Layout, and Breakpoints
-7. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `/demos/02-md-html-indd-workflow/` for reference) `#demo`
+2. [*Do We Need to Write Markup?* with Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#discussion`
+3. [*Designing in the Browser* with Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
+4. [*More Perfect Typography* with Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
+5. [*Typesetting Body Text* with Tim Brown](https://vimeo.com/156203722) `video` `#demo`
+6. Choosing and Using Web Fonts `#reference` [*Web Typography* by Richard Rutter](http://www.book.webtypography.net)
+7. Content First Design, Content Out Layout, and Breakpoints
+8. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `/demos/02-md-html-indd-workflow/` for reference) `#demo`
 
 ![InDesign to HTML and CSS Workflow](./img/02-indd-html-css-workflow.png)
 
