@@ -37,13 +37,9 @@ Manifestos codify beliefs, a set of ideas and goals, published as a manifest or 
 
 From hot to cold metal lockup, to photographic and xerographic paste-up, to Bézier curves and PostScript; from paper to screen; to paperless workflows and online publishing with PDF, HTML, and CSS; to the easy-to-read, easy-to-write text-to-HTML formatting syntax of Markdown and the desktop publishing champion InDesign; to the manifestation of human and machine friendly markup and style for printers, screens, and designers alike. The tools and technology of the design industry, past and present, inspire and govern our process and output. How we decide and define the design language, tools, and workflows we use — should be as meaningful as the content and intent in which we design and layout.
 
-- - -
-
 ## Brief
 
 Revive and layout a manifesto, of your choice, for today’s readers of print and web using a semantic design language, workflow, and a back-to-basics content and structure focused approach to better, more practical, typography.
-
-- - -
 
 ## Work & Rubric
 
@@ -137,8 +133,6 @@ Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphi
 - [ ] Design and link a favicon `.ico` for your manifesto webpage
 - [ ] Design and link a Twitter/OG, 512px x 512px `.png`, for your manifest webpage
 
-- - -
-
 ## Schedule
 
 By week, and task(s).
@@ -169,8 +163,6 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 *p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)*
 
 *p.p.s. [Shrink Your Time](https://gettingreal.37signals.com/ch06_Shrink_Your_Time.php)*
-
-- - -
 
 ## Warm-Up
 
@@ -239,8 +231,6 @@ Extras for BBEdit:
 - Text Filters: `md → html.pl`
   - `~/Library/Application Support/BBEdit/Text Filters/`
 
-- - -
-
 ## Lectures
 
 *Not all lectures take place in class; some lectures get assigned as homework.*
@@ -268,8 +258,6 @@ InDesign to HTML and CSS Workflow `#export`
 - Exporting InDesign to HTML and CSS
 - Cleaning up InDesign generated HTML and CSS for better readability and web typography
 
-- - -
-
 ## Design Criticism
 
 *Please skim before attending design critiques.*
@@ -278,8 +266,6 @@ InDesign to HTML and CSS Workflow `#export`
 - [Finding the Positive in Negative Feedback](https://deardesignstudent.com/finding-the-positive-in-negative-feedback-8f7dfa2b7da5)
 - [Design Criticism and the Creative Process](https://alistapart.com/article/design-criticism-creative-process)
 - [Sharing Our Work: Testing and Feedback in Design](https://alistapart.com/article/sharing-our-work-testing-feedback-in-design)
-
-- - -
 
 ## Readings & Resources
 
@@ -447,8 +433,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [ ] → [The End of an Era: A Short Film About The Last Day of Hot Metal Typesetting at The New York Times (1978)](http://www.openculture.com/2015/08/the-end-of-an-era-a-short-film-about-the-last-day-of-hot-metal-typesetting-at-the-new-york-times-1978.html) `video`
 - [ ] → [1966–2016 | The Last Hot-Type Printer Puts Down His Tools](https://www.nytimes.com/2016/06/02/insider/1966-2016-the-last-hot-type-printer-puts-down-his-tools.html)
 
-- - -
-
 ## Books
 
 - [Web Typography](http://www.book.webtypography.net) `#buyme`
@@ -458,8 +442,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Responsive Web Design (Second Edition)](https://abookapart.com/products/responsive-web-design)
 - [HTML5 for Web Designers (Second Edition)](https://abookapart.com/products/html5-for-web-designers)
 
-- - -
-
 ## Paper
 
 - [French Paper Co.](http://www.frenchpaper.com)
@@ -467,8 +449,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Neenah Fine Papers](http://www.neenahpaper.com/finepaper)
 - [Neenah Class Crest Papers](http://www.neenahpaper.com/finepaper/classiccrestpapers/productdetail?type=sample&color=Solar%20White&finish=Smooth) `#ordersamples`
 - [Neenah Color Copy Papers](http://www.neenahpaper.com/finepaper/morebrands/neenahcolorcopy/productdetail?color=Solar+White&finish=Super+Smooth) `#ordersamples`
-
-- - -
 
 ## Software
 

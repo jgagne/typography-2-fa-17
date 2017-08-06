@@ -28,13 +28,9 @@ Close-up of a 16 point ampersand set in Trebuchet MS viewed in Illustrator’s P
 
 The ampersand (&) — once considered the 27th letter of the alphabet; born of a Latin phrase; now a long-standing character, rich in personality and history, that’s become a favorite among designers and type designers alike.
 
-- - -
-
 ## Brief
 
 Design a bespoke ampersand (&) for print and web, as an alternate glyph for a serif, sans-serif, or monospace web safe font.
-
-- - -
 
 ## Work & Rubric
 
@@ -111,8 +107,6 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 - [ ] One display type size @ 2em x 2em
 - [ ] One display type size @ 3em x 3em
 - [ ] One banner type size @ 16em x 16em
-
-- - -
 
 ## Warm-Up
 
@@ -192,15 +186,11 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 
 - [The Grid System](http://thegridsystem.net/tags/indesign/)
 
-- - -
-
 ## Lectures
 
 1. [Bezier Curves and Type Design: A Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 2. Working with SVG
 3. Responsive Grid Systems in Print (poster) and Web (webpage)
-
-- - -
 
 ## Schedule
 
@@ -238,8 +228,6 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 - [9 Rules For Running A Productive Design Critique](https://www.fastcodesign.com/3019674/9-rules-for-running-a-productive-design-critique)
 - [Discussing Design: The Art of Critique](https://www.slideshare.net/adamconnor/discussing-design-the-art-of-critique) `slides`
 - [I Don’t Like It](https://alistapart.com/column/i-dont-like-it)
-
-- - -
 
 ## Readings & Resources
 
@@ -356,27 +344,19 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [Printable Grids for Design Wireframing](http://sneakpeekit.com)
 
-- - -
-
 ## Books
 
 - [*In Progress* by Jessica Hische](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
-
-- - -
 
 ## Magazines
 
 - [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
 - [Typenotes Magazine](https://shop.fontsmith.com) `#buyme`
 
-- - -
-
 ## Paper
 
 - [French Paper Co.](http://www.frenchpaper.com)
 - [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
-
-- - -
 
 ## Software
 
