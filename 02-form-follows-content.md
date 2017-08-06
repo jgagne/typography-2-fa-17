@@ -460,6 +460,7 @@ Pick a *free* flavor…
 - [Atom](https://atom.io)
 - [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only)
 - [Brackets](http://brackets.io)
+- [HTML Builder Prototype](http://dev.artequalswork.com/builder/)
 
 ### Favicon Generator
 
