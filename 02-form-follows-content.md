@@ -10,9 +10,10 @@
 5. [Schedule](#schedule)
 6. [Design Criticism](#design-criticism)
 7. [Readings & Resources](#readings--resources)
-8. [Books & Magazines](#books--magazines)
+- [Books](#books)
 - [Paper](#paper)
 - [Software](#software)
+
 
 ## Form Follows Content
 
@@ -444,7 +445,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - - -
 
-### Books & Magazines
+### Books
 
 - [Web Typography](http://www.book.webtypography.net) `#buyme`
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
@@ -452,8 +453,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Explorations in Typography (Second Edition)](http://explorationsintypography.com)
 - [Responsive Web Design (Second Edition)](https://abookapart.com/products/responsive-web-design)
 - [HTML5 for Web Designers (Second Edition)](https://abookapart.com/products/html5-for-web-designers)
-- [HTML5 for Web Designers (Website / First Edition)](https://html5forwebdesigners.com) `#free`
-- [Baseline Magazine](http://blog.baselinemagazine.com) `blog`
 
 - - -
 

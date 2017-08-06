@@ -10,7 +10,8 @@
 5. [Schedule](#schedule)
 6. [Design Criticism](#design-criticism)
 7. [Readings & Resources](#readings--resources)
-8. [Books & Magazines](#books--magazines)
+- [Books](#books)
+- [Magazines](#magazines)
 - [Paper](#paper)
 - [Software](#software)
 
@@ -353,9 +354,14 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - - -
 
-### Books & Magazines
+### Books
 
 - [*In Progress* by Jessica Hische](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
+
+- - -
+
+Magazines
+
 - [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
 - [Typenotes Magazine](https://shop.fontsmith.com) `#buyme`
 
