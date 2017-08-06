@@ -124,7 +124,7 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 
 ### Instructor
 
-1. As a class watch [*My Life in Typefaces* with Matthew Carter](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
+1. As a class watch [*My Life in Typefaces* by Matthew Carter](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
 2. As a class, discuss the importance and process of drawing type and watch [On Sketching](https://vimeo.com/11491627) `video`
 3. Demo how to create an InDesign grid template for sketching using the gridify technique with custom character, paragraph, and object styles (see `/warm-ups/01-ampersand-sketch-grid/` for reference)
 

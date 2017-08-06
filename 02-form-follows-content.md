@@ -188,7 +188,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 `60 minutes`
 
-1. As a class, watch [*Get Uncomfortable* with Stephen Hay](https://creativemornings.com/talks/stephen-hay/1) `video`
+1. As a class, watch [*Get Uncomfortable* by Stephen Hay](https://creativemornings.com/talks/stephen-hay/1) `video`
 2. Discuss, demo, and compare markup languages for print and web design, the evolution of page description to plain text, and the benefits of separating presentational and structural semantics for better accessibility and readability
   - Present `02-hello-world-ps-layout.eps` as an example of layout in a text editor and a browser using PostScript (see `/warm-ups/02-hello-world-ps-layout/` for reference)
 3. Demo how to extend BBEdit’s support for PostScript syntax highlighting and MD to HTML conversion
@@ -240,10 +240,10 @@ Extras for BBEdit:
 Markdown to HTML to InDesign Workflow `#import`
 
 1. [A History of Graphic Design Production](http://www.graphicmeans.com) `video` `#discussion`
-2. [*Do We Need to Write Markup?* with Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#discussion`
-3. [*Designing in the Browser* with Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
-4. [*More Perfect Typography* with Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
-5. [*Typesetting Body Text* with Tim Brown](https://vimeo.com/156203722) `video` `#demo`
+2. [*Do We Need to Write Markup?* by Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#discussion`
+3. [*Designing in the Browser* by Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
+4. [*More Perfect Typography* by Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
+5. [*Typesetting Body Text* by Tim Brown](https://vimeo.com/156203722) `video` `#demo`
 6. Choosing and Using Web Fonts `#reference` [*Web Typography* by Richard Rutter](http://www.book.webtypography.net)
 7. Content First Design, Content Out Layout, and Breakpoints
 8. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `/demos/02-md-html-indd-workflow/` for reference) `#demo`
@@ -323,8 +323,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [ ] →  [How We Learned to Leave Default `font-size` Alone and Embrace the `em`](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
 - [ ] →  [CSS Font Sizing](https://bitsofco.de/css-font-sizing/)
-- [ ] →  [*More Perfect Typography* with Tim Brown](https://vimeo.com/17079380) `video`
-- [ ] →  [*Typesetting Body Text* with Tim Brown](https://vimeo.com/156203722) `video`
+- [ ] →  [*More Perfect Typography* by Tim Brown](https://vimeo.com/17079380) `video`
+- [ ] →  [*Typesetting Body Text* by Tim Brown](https://vimeo.com/156203722) `video`
 
 ### Legibility & Readability
 
@@ -339,7 +339,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### Practical Typography for Print & Web
 
-- [ ] → [*On Web Typography* with Jason Santa Maria](https://vimeo.com/34178417) `video`
+- [ ] → [*On Web Typography* by Jason Santa Maria](https://vimeo.com/34178417) `video`
 - [ ] → [Web Typography Overview](http://smad.jmu.edu/shen/webtype/)
 - [ ] → [Butterick’s Practical Typography](http://practicaltypography.com)
 - [ ] → [The Elements of Typographic Style Applied to the Web](http://webtypography.net/intro/)
