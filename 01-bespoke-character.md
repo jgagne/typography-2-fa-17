@@ -11,7 +11,8 @@
 6. [Design Criticism](#design-criticism)
 7. [Readings & Resources](#readings--resources)
 8. [Books & Magazines](#books--magazines)
-9. [Software](#software)
+- [Paper](#paper)
+- [Software](#software)
 
 
 ## Bespoke Character
@@ -26,11 +27,13 @@ Close-up of a 16 point ampersand set in Trebuchet MS viewed in Illustrator’s P
 
 The ampersand (&) — once considered the 27th letter of the alphabet; born of a Latin phrase; now a long-standing character, rich in personality and history, that’s become a favorite among designers and type designers alike.
 
+- - -
 
 ### Brief
 
 Design a bespoke ampersand (&) for print and web, as an alternate glyph for a serif, sans-serif, or monospace web safe font.
 
+- - -
 
 ### Work & Rubric
 
@@ -108,6 +111,7 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 - [ ] One display type size @ 3em x 3em
 - [ ] One banner type size @ 16em x 16em
 
+- - -
 
 ### Warm-Up
 
@@ -187,6 +191,7 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 
 - [The Grid System](http://thegridsystem.net/tags/indesign/)
 
+- - -
 
 ### Lectures
 
@@ -194,6 +199,7 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 2. Working with SVG
 3. Responsive Grid Systems in Print (poster) and Web (webpage)
 
+- - -
 
 ### Schedule
 
@@ -222,6 +228,8 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
  - Presentation of webpage: Layout [full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots) of small and wide screen views with added minimal browser chrome (download and edit [`.ai`](https://www.behance.net/gallery/11005655/Free-Chrome-Browser-Mockup-Design-Template-Vector)/[`.sketch`](https://dribbble.com/shots/3525505-Minimal-Browser-Template) template) on an 11in x 17in (landscape orientation); print in color and on a [good heavy weight bright white laser paper](https://www.staples.com/Hammermill-11-inch-x-17-inch-60-lbs-Ultra-Smooth-Color-Copy-Digital-Cover/product_194936) `#buypaper`
  - `eow` Presentation and review of completed work
 
+- - -
+
 ### Design Criticism
 
 *Please skim before attending design critiques.*
@@ -230,6 +238,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 - [Discussing Design: The Art of Critique](https://www.slideshare.net/adamconnor/discussing-design-the-art-of-critique) `slides`
 - [I Don’t Like It](https://alistapart.com/column/i-dont-like-it)
 
+- - -
 
 ### Readings & Resources
 
@@ -342,17 +351,22 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [Printable Grids for Design Wireframing](http://sneakpeekit.com)
 
-#### Paper
-
-- [French Paper Co.](http://www.frenchpaper.com)
-- [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
-
+- - -
 
 ### Books & Magazines
 
 - [*In Progress* by Jessica Hische](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
 - [The Mohawk Maker Quarterly](https://www.mohawkconnects.com/marketing-page/cultureofcraft) `#free` `#subscribe`
 - [Typenotes Magazine](https://shop.fontsmith.com) `#buyme`
+
+- - -
+
+### Paper
+
+- [French Paper Co.](http://www.frenchpaper.com)
+- [French Paper Utility Guide](http://www.frenchpaper.com/utility-guide.html) `#2dollars` `#buyme`
+
+- - -
 
 ### Software
 
