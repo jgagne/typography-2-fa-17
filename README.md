@@ -9,7 +9,7 @@
 ### Lessons
 
 1. [Bespoke Character](01-bespoke-character.md)
-2. [Semantic Content](02-semantic-content.md)
+2. [Form Follows Content](02-form-follows-content.md)
 3. `wip` Lean Product
 4. `wip` Responsive Publication
 

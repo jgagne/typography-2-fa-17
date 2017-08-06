@@ -2,7 +2,7 @@
 
 # Typography 2 / Lesson 2
 
-0. [Preface](#semantic-content)
+0. [Preface](#form-follows-content)
 1. [Brief](#brief)
 2. [Work & Rubric](#work--rubric)
 3. [Warm-Up](#warm-up)
@@ -13,7 +13,7 @@
 8. [Books & Magazines](#books--magazines)
 9. [Software](#software)
 
-## Semantic Content
+## Form Follows Content
 
 ![Design Research Unit Manifesto](./img/02-design-research-unit-michelle-cotton.png)
 
@@ -27,9 +27,9 @@ Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograp
 >
 > —[Robert Bringhurst](https://www.youtube.com/watch?v=oG-oYm1oTLE), poet, typographer and author
 
-> “Styles come and go. Good design is a language, not a style.”
+> “Content is necessary to validate the design process and substantiate the final design. Without content as propellant, the design process descends into the creative pussyfooting and disposable prettiness of the factory of garbage, staffed by the pro-celebrity pop stars who peddle their “one-style-fits-all”, recycled typo-illustration, entirely devoid of meaning and content.”
 >
-> —[Massimo Vignelli](https://www.fastcodesign.com/3030621/rip-massimo-vignelli-one-of-the-greatest-20th-century-designers), designer (1931–2014)
+> —Simon Kennedy, designer
 
 Manifestos codify beliefs, a set of ideas and goals, published as a manifest or declaration in the form of phrases, paragraphs, and lists that influence the reader to copy, transform, and take action. `#movement`
 
@@ -285,6 +285,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 #### Inspiration
 
 - [ ] → [Design Research Unit, 1942–1972](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72)
+- [8vo: type and structure](http://www.eyemagazine.com/feature/article/8vo-type-and-structure)
 - [Graphic Design Manifestos Revisited](http://www.amalieborghansen.com/graphic-design-manifestos-revisited)
 - [INtroducing IN-Pratica: The Italian Design Manifesto](http://www.printmag.com/design-culture-2/italian-design-manifesto/)
 - [The Labour Party Manifesto 2017](http://www.labour.org.uk/index.php/manifesto2017)
