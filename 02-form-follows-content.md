@@ -19,15 +19,15 @@
 
 Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograph](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72).
 
-> “Content precedes design. Design in the absence of content is not design, it’s decoration.”
+> Content precedes design. Design in the absence of content is not design, it’s decoration.
 >
 > —[Jeffrey Zeldman](https://www.zeldman.com/about/), designer, writer, and publisher
 
-> “Typographic style is founded not on any one technology of typesetting or printing, but on the primitive yet subtle craft of writing.”
+> Typographic style is founded not on any one technology of typesetting or printing, but on the primitive yet subtle craft of writing.
 >
 > —[Robert Bringhurst](https://www.youtube.com/watch?v=oG-oYm1oTLE), poet, typographer and author
 
-> “Content is necessary to validate the design process and substantiate the final design. Without content as propellant, the design process descends into the creative pussyfooting and disposable prettiness of the factory of garbage, staffed by the pro-celebrity pop stars who peddle their “one-style-fits-all”, recycled typo-illustration, entirely devoid of meaning and content.”
+> Content is necessary to validate the design process and substantiate the final design. Without content as propellant, the design process descends into the creative pussyfooting and disposable prettiness of the factory of garbage, staffed by the pro-celebrity pop stars who peddle their “one-style-fits-all”, recycled typo-illustration, entirely devoid of meaning and content.
 >
 > —Simon Kennedy, designer
 
@@ -178,7 +178,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 >
 > —[Dov Isaacs](https://www.prepressure.com/postscript/basics/history), Principal Scientist, Adobe Systems Incorporated
 
-> “Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.”
+> Good design and good markup provide structure to content. Good markup is a fundamental part of good design: beautiful on the inside, beautiful on the outside.
 >
 > —[Frank Chimero](https://www.frankchimero.com/about/), designer, writer, and illustrator
 
