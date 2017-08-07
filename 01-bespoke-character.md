@@ -73,7 +73,7 @@ Design a poster, comparing and contrasting the web safe font’s original ampers
 
 - [ ] Use of character and paragraphs styles
 - [ ] Exclusive use of selected web safe font for all other text: headings, body text, captions, etc.
-- [ ] Print one or more posters, 18in x 24in or larger (19in x 25in for bleeds), black only (100% or 4-color black)
+- [ ] Print one or more posters, 18in x 24in or larger (add .25—.5in for bleed), portrait or landscape orientation, black only (100% or 4-color black)
 - [ ] Print on white or color 80# `text` or 65# `cover` or lighter weight paper stock
   - A color stock should be well considered `#colortalks`
   - If you do decide to make use of color paper stock, stay away from the use of knockout due to difficulties in reproducing even coverage of large amounts of black (toner) as a background
