@@ -64,7 +64,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 `20 points`
 
-- [ ] Single-sheet, 8.5in x 14in (legal), double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), 4-page leaflet
+- [ ] Single-sheet, 8.5in x 14in (legal), landscape orientation, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), 4-page leaflet
   - `#printerspreads`
     ```
     | 4 | 1 |
