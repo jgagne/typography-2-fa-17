@@ -1,7 +1,7 @@
 ← [`ls`](README.md#lessons)
 
 # Typography 2
-## Lesson 2
+## Lesson 1
 
 0. [Preface](#bespoke-character)
 1. [Brief](#brief)
