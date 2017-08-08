@@ -64,7 +64,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 `20 points`
 
-- [ ] Single-sheet, 8.5in x 14in (legal), landscape orientation, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), 4-page leaflet
+- [ ] Single-sheet, 8.5″ × 14″ (legal), landscape orientation, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), 4-page leaflet
   - `#printerspreads`
     ```
     | 4 | 1 |
@@ -131,7 +131,7 @@ Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphi
 - [ ] Design, print, and make a sleeve or envelope for your manifest leaflet `#totalpackage` `#diecutbyhand` `#differentpaper`
 - [ ] Print an edition of 16 leaflets for distribution to colleagues and instructor `#reproduction`
 - [ ] Design and link a favicon `.ico` for your manifesto webpage
-- [ ] Design and link a Twitter/OG, 512px x 512px `.png`, for your manifest webpage
+- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your manifest webpage
 
 ## Schedule
 

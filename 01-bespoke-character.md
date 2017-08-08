@@ -49,12 +49,12 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 `20 points`
 
-Design an alternate `normal` or `bold` weight ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
+Design an alternate `normal` or `bold` weight ampersand, working from a scale of a low-res favicon (1em × 1em or 16pt/px × 16pt/px) through a hi-res banner type size (16em × 16em or 256pt/px × 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
 
-- [ ] One favicon @ 1em x 1em
-- [ ] One display type size @ 2em x 2em
-- [ ] One display type size @ 3em x 3em
-- [ ] One banner type size @ 16em x 16em
+- [ ] One favicon @ 1em × 1em
+- [ ] One display type size @ 2em × 2em
+- [ ] One display type size @ 3em × 3em
+- [ ] One banner type size @ 16em × 16em
 
 ### Character
 
@@ -73,13 +73,13 @@ Design a poster, comparing and contrasting the web safe font’s original ampers
 
 - [ ] Use of character and paragraphs styles
 - [ ] Exclusive use of selected web safe font for all other text: headings, body text, captions, etc.
-- [ ] Print one or more posters, 18in x 24in or larger (add .25—.5in for bleed), portrait or landscape orientation, black only (100% or 4-color black)
+- [ ] Print one or more posters, 18″ × 24″ or larger (add .25—.5in for bleed), portrait or landscape orientation, black only (100% or 4-color black)
 - [ ] Print on white or color 80# `text` or 65# `cover` or lighter weight paper stock
   - A color stock should be well considered `#colortalks`
   - If you do decide to make use of color paper stock, stay away from the use of knockout due to difficulties in reproducing even coverage of large amounts of black (toner) as a background
   - Output at a print shop with a large format A&E (Architectural & Engineering) black and white graphics plotter/photocopier
-    - CCI Reprographics, `978 922 3773`, @ 110 Cabot Street, is a local print shop that can provide output and various paper stocks. Stop by or call ahead for pricing and paper stock availability. Call ahead, make an appointment, and bring your files (`.idml` with all dependencies, or `.pdf`) with an 11in x 17in black and white proof, and any paper samples (with extras). `#beprepared` `#beprofessional`
-    - [French Paper Co.](http://www.frenchpaper.com) offers a lot of choices for 19in x 25in cut sheet paper in a range of colors and weights, and can be ordered in small counts of 25 (extra sheets come in handy) for under $35–50. Considering ordering paper in groups to save on costs `#frenchpaper`
+    - CCI Reprographics, `978 922 3773`, @ 110 Cabot Street, is a local print shop that can provide output and various paper stocks. Stop by or call ahead for pricing and paper stock availability. Call ahead, make an appointment, and bring your files (`.idml` with all dependencies, or `.pdf`) with an 11″ × 17″ black and white proof, and any paper samples (with extras). `#beprepared` `#beprofessional`
+    - [French Paper Co.](http://www.frenchpaper.com) offers a lot of choices for 19″ × 25in cut sheet paper in a range of colors and weights, and can be ordered in small counts of 25 (extra sheets come in handy) for under $35–50. Considering ordering paper in groups to save on costs `#frenchpaper`
     - **Note:** Paper stock in heavier weights will not run through a large format photocopier with good results; a paper jam or uneven toner coverage and fusing will result `#avoid`
 
 ### Screen Time
@@ -91,7 +91,7 @@ Design a single-page, responsive webpage based on a simplified version of your p
 - [ ] Use of CSS Grid Layout and media queries for small-to-wide responsive layout
 - [ ] Use of optimized SVG files for ampersands with flexible images HTML and CSS
 - [ ] Exclusive use of selected web safe font for all other text: headings, body text, captions, etc.
-- [ ] Link ampersand favicon `.ico` and Twitter/OG image (512px x 512px) `.png`
+- [ ] Link ampersand favicon `.ico` and Twitter/OG image (512px × 512px) `.png`
 
 - - -
 
@@ -101,12 +101,12 @@ True italic; not fake, *slanted*.
 
 `20 points`
 
-Design an alternate *slanted* `italic` style ampersand, working from a scale of a low-res favicon (1em x 1em or 16pt/px x 16pt/px) through a hi-res banner type size (16em x 16em or 256pt/px x 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
+Design an alternate *slanted* `italic` style ampersand, working from a scale of a low-res favicon (1em × 1em or 16pt/px × 16pt/px) through a hi-res banner type size (16em × 16em or 256pt/px × 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
 
-- [ ] One favicon @ 1em x 1em
-- [ ] One display type size @ 2em x 2em
-- [ ] One display type size @ 3em x 3em
-- [ ] One banner type size @ 16em x 16em
+- [ ] One favicon @ 1em × 1em
+- [ ] One display type size @ 2em × 2em
+- [ ] One display type size @ 3em × 3em
+- [ ] One banner type size @ 16em × 16em
 
 ## Warm-Up
 
@@ -216,7 +216,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
     - Production-ready poster layout in InDesign and webpage layout in HTML/CSS for final feedback and review
     - Poster proofing and printing (at school or a print shop) `#printafew`
     - Webpage testing and publishing (via GitHub) on smartphone, tablet, laptop, desktop, etc.
-    - Presentation of webpage: Layout [full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots) of small and wide screen views with added minimal browser chrome (download and edit [`.ai`](https://www.behance.net/gallery/11005655/Free-Chrome-Browser-Mockup-Design-Template-Vector)/[`.sketch`](https://dribbble.com/shots/3525505-Minimal-Browser-Template) template) on an 11in x 17in (landscape orientation); print in color and on a [good heavy weight bright white laser paper](https://www.staples.com/Hammermill-11-inch-x-17-inch-60-lbs-Ultra-Smooth-Color-Copy-Digital-Cover/product_194936) `#buypaper`
+    - Presentation of webpage: Layout [full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots) of small and wide screen views with added minimal browser chrome (download and edit [`.ai`](https://www.behance.net/gallery/11005655/Free-Chrome-Browser-Mockup-Design-Template-Vector)/[`.sketch`](https://dribbble.com/shots/3525505-Minimal-Browser-Template) template) on an 11″ × 17in (landscape orientation); print in color and on a [good heavy weight bright white laser paper](https://www.staples.com/Hammermill-11-inch-x-17-inch-60-lbs-Ultra-Smooth-Color-Copy-Digital-Cover/product_194936) `#buypaper`
     - `eow` Presentation and review of completed work
 
 - - -
