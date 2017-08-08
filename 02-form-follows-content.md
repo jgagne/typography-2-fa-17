@@ -140,25 +140,25 @@ By week, and task(s).
 Feel free to copy and paste to make a *Schedule* issue task list (update `- Task` to `- [ ] Task`). [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
 1. Ideas, Learn, and Make
-  - Kickoff meeting and lecture
-  - Warm-Up
-  - Research and work session
-  - Meeting and lecture(s)
-  - Selected Manifesto authored in Markdown
-  - Typographic style tile(s) with selected typefaces
+    - Kickoff meeting and lecture
+    - Warm-Up
+    - Research and work session
+    - Meeting and lecture(s)
+    - Selected Manifesto authored in Markdown
+    - Typographic style tile(s) with selected typefaces
 2. Iterate, Revise, and Repeat
-  - Meeting and lecture(s)
-  - Develop and apply responsive typographic modular scale
-  - `wip` Draft manifesto typesetting and single-column layout for print and web
-  - `wip` Sketches for printed 4-page layout and single-page website
-  - `eow` Publish all `wip` files to GitHub
-  - `eow` Review and feedback (`1:1` and GitHub comments)
+    - Meeting and lecture(s)
+    - Develop and apply responsive typographic modular scale
+    - `wip` Draft manifesto typesetting and single-column layout for print and web
+    - `wip` Sketches for printed 4-page layout and single-page website
+    - `eow` Publish all `wip` files to GitHub
+    - `eow` Review and feedback (`1:1` and GitHub comments)
 3. Review and Takeaways
- - Revise modular scale and layout(s) after proofing on paper and testing on smartphone and laptop/desktop browsers
- - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your leaflet, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745)
- - Production-ready leaflet layout in InDesign and webpage layout in HTML/CSS for final feedback and review
- - Leaflet proofing and printing (at school or a print shop) `#printafew`
- - `eow` Presentation and review of completed work
+    - Revise modular scale and layout(s) after proofing on paper and testing on smartphone and laptop/desktop browsers
+    - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your leaflet, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745)
+    - Production-ready leaflet layout in InDesign and webpage layout in HTML/CSS for final feedback and review
+    - Leaflet proofing and printing (at school or a print shop) `#printafew`
+    - `eow` Presentation and review of completed work
 
 *p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)*
 
@@ -190,7 +190,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 1. As a class, watch [*Get Uncomfortable* by Stephen Hay](https://creativemornings.com/talks/stephen-hay/1) `video`
 2. Discuss, demo, and compare markup languages for print and web design, the evolution of page description to plain text, and the benefits of separating presentational and structural semantics for better accessibility and readability
-  - Present `02-hello-world-ps-layout.eps` as an example of layout in a text editor and a browser using PostScript (see `/warm-ups/02-hello-world-ps-layout/` for reference)
+    - Present `02-hello-world-ps-layout.eps` as an example of layout in a text editor and a browser using PostScript (see `/warm-ups/02-hello-world-ps-layout/` for reference)
 3. Demo how to extend BBEdit’s support for PostScript syntax highlighting and MD to HTML conversion
 4. Demo how to author, view, and save a `Hello, World!` example in PS, SVG, MD, and HTML/CSS
 
@@ -200,14 +200,14 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 1. Author, view, and save a simple `Hello, World!` example in PS, SVG, MD, and HTML/CSS
 2. Save `.ps` as `.eps` and open within Illustrator and inspect each text node
- - PostScript is still the underlying language behind Illustrator. We just set type by hand using a text editor, like you would in Illustrator or InDesign, but without the GUI WYSIWYG tools
+   - PostScript is still the underlying language behind Illustrator. We just set type by hand using a text editor, like you would in Illustrator or InDesign, but without the GUI WYSIWYG tools
 3. Place `.eps` in InDesign and inspect each text node
-  - What happens? Why? `#discussion`
+    - What happens? Why? `#discussion`
 4. Open *And Per Sketch* ampersand sketch grid `.indd` (from Lesson 1) and save as `.idml`
 5. Open `.idml` in a text editor; check out the `Stories` folder and the accessible content and readable format of `.xml`
 6. Open `.svg` example in Illustrator and inspect
- - SVG is an XML-based open web standard for vector images on the web; developed by the World Wide Web Consortium (W3C) since 1999
- - Caveat: InDesign doesn’t support SVG (import or export). `#thanksadobe` `#eps`
+   - SVG is an XML-based open web standard for vector images on the web; developed by the World Wide Web Consortium (W3C) since 1999
+   - Caveat: InDesign doesn’t support SVG (import or export). `#thanksadobe` `#eps`
 7. Make a new repo for this exercise with a `README.md` listing a comparison of `Hello, World!` code blocks in each markup language
 8. Publish via GitHub
 
