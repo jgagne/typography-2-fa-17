@@ -308,6 +308,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [Typography Deconstructed](https://typedecon.com)
 - [Explorations in Typography](http://explorationsintypography.com/first-edition/glossary/)
+- [Typography Cheatsheet](https://www.typewolf.com/cheatsheet)
 
 ### Designer Black
 
