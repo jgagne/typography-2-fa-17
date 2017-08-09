@@ -64,6 +64,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 `20 points`
 
+Format, layout, and production.
+
 - [ ] Single-sheet, 8.5″ × 14″ (legal), landscape orientation, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), 4-page leaflet
   - `#printerspreads`
     ```
@@ -82,9 +84,9 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
     | 4 |
     ```
 - [ ] Print on specialty paper stock; color and weight is as meaningful as the content `#intent`
+- [ ] InDesign character and paragraph styles must have accurate content-based names and associated class names for HTML/CSS `#semantic`
 - [ ] Design for all screen sizes, small (mobile first) to wide (laptop/desktop and print) `#responsive`
-- [ ] Single-column layout for small screens and multi-column layout, *only if the content decides*, for laptop/desktop and print `#keepitsimple`
-
+  - Single-column layout for small screens and multi-column content-out layout, *let the content decide*, for wider screens (tablet/laptop/desktop) and print `#keepitsimple`
 ### Typography
 
 `20 points`
@@ -131,10 +133,10 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
 
 Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphic designer
 
-- [ ] Design, print, and make a sleeve or envelope for your manifest leaflet `#totalpackage` `#diecutbyhand` `#differentpaper`
+- [ ] Design and print a sleeve or envelope for your manifesto leaflet `#totalpackage` `#diecutbyhand` `#differentpaper`
 - [ ] Print an edition of 16 leaflets for distribution to colleagues and instructor `#reproduction`
 - [ ] Design and link a favicon `.ico` for your manifesto webpage
-- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your manifest webpage
+- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your manifesto webpage
 
 ## Schedule
 
@@ -191,7 +193,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 `60 minutes`
 
-1. As a class, watch [*Get Uncomfortable* by Stephen Hay](https://creativemornings.com/talks/stephen-hay/1) `video`
+1. As a class, watch [“Get Uncomfortable” by Stephen Hay](https://creativemornings.com/talks/stephen-hay/1) `video`
 2. Discuss, demo, and compare markup languages for print and web design, the evolution of page description to plain text, and the benefits of separating presentational and structural semantics for better accessibility and readability
     - Present `02-hello-world-ps-layout.eps` as an example of layout in a text editor and a browser using PostScript (see `/warm-ups/02-hello-world-ps-layout/` for reference)
 3. Demo how to extend BBEdit’s support for PostScript syntax highlighting and MD to HTML conversion
@@ -236,20 +238,20 @@ Extras for BBEdit:
 
 ## Lectures
 
-*Not all lectures take place in class; some lectures get assigned as homework.*
+*Not all lectures take place in class; some video lectures get assigned as homework.*
 
 ![Markdown to HTML to InDesign Workflow](./img/02-md-html-indd-workflow.png)
 
 Markdown to HTML to InDesign Workflow `#import`
 
-1. [A History of Graphic Design Production](http://www.graphicmeans.com) `video` `#discussion`
-2. [*Do We Need to Write Markup?* by Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#first34m` `#discussion`
-3. [*Designing in the Browser* by Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
-4. [*More Perfect Typography* by Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
-5. [*Typesetting Body Text* by Tim Brown](https://vimeo.com/156203722) `video` `#demo`
-6. Choosing and Using Web Fonts `#reference` [*Web Typography* by Richard Rutter](http://www.book.webtypography.net)
-7. Content First Design, Content Out Layout, and Breakpoints
-8. MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard (see `/demos/02-md-html-indd-workflow/` for reference) `#demo`
+1. [**A History of Graphic Design Production**](http://www.graphicmeans.com) `video` `#discussion`
+2. [**Do We Need to Write Markup?** by Nathan Ford](http://artequalswork.com/posts/markup/) `video` `#first34m` `#discussion`
+3. [**Designing in the Browser** by Stephen Hay](https://vimeo.com/120372264) `video` `#discussion`
+4. [**More Perfect Typography** by Tim Brown](https://vimeo.com/17079380) `video` `#discussion`
+5. [**Typesetting Body Text** by Tim Brown](https://vimeo.com/156203722) `video` `#demo`
+6. **Choosing and Using Web Fonts** `#reference` [*Web Typography* by Richard Rutter](http://www.book.webtypography.net)
+7. **Content First Design, Content Out Layout, and Breakpoints**
+8. **MD → HTML → InDesign Workflow, Semantic Content, Markup & Style, and Naming Things is Hard** (see `/demos/02-md-html-indd-workflow/` for reference) `#demo`
 
 ![InDesign to HTML and CSS Workflow](./img/02-indd-html-css-workflow.png)
 
@@ -288,7 +290,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [The Open Web Design Manifesto](http://blog.froont.com/manifesto/)
 - [10 Rules for Students, Teachers, and Life by John Cage and Sister Corita Kent](https://www.brainpickings.org/2012/08/10/10-rules-for-students-and-teachers-john-cage-corita-kent/)
 
-### Inspiration
+### Influence
 
 - [ ] → [Design Research Unit, 1942–1972](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72)
 - [8vo: type and structure](http://www.eyemagazine.com/feature/article/8vo-type-and-structure)
@@ -326,8 +328,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [ ] →  [How We Learned to Leave Default `font-size` Alone and Embrace the `em`](https://www.filamentgroup.com/lab/how-we-learned-to-leave-body-font-size-alone.html)
 - [ ] →  [CSS Font Sizing](https://bitsofco.de/css-font-sizing/)
-- [ ] →  [*More Perfect Typography* by Tim Brown](https://vimeo.com/17079380) `video`
-- [ ] →  [*Typesetting Body Text* by Tim Brown](https://vimeo.com/156203722) `video`
+- [ ] →  [“More Perfect Typography” by Tim Brown](https://vimeo.com/17079380) `video`
+- [ ] →  [“Typesetting Body Text” by Tim Brown](https://vimeo.com/156203722) `video`
 
 ### Legibility & Readability
 
@@ -342,7 +344,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### Practical Typography for Print & Web
 
-- [ ] → [*On Web Typography* by Jason Santa Maria](https://vimeo.com/34178417) `video`
+- [ ] → [“On Web Typography” by Jason Santa Maria](https://vimeo.com/34178417) `video`
 - [ ] → [Web Typography Overview](http://smad.jmu.edu/shen/webtype/)
 - [ ] → [Butterick’s Practical Typography](http://practicaltypography.com)
 - [ ] → [The Elements of Typographic Style Applied to the Web](http://webtypography.net/intro/)
