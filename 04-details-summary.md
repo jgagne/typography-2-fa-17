@@ -215,10 +215,10 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Too Long; Didn’t Read
 
-[ ] → [Short and shallow reading on the Internet? Not so fast](http://www.pbs.org/newshour/bb/short-and-shallow-reading-on-the-internet-not-so-fast/) `video`
-[ ] → [Long vs. Short Articles as Content Strategy](https://www.nngroup.com/articles/content-strategy-long-vs-short/)
-[ ] → [Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
-[ ] → [Anchors OK? Re-Assessing In-Page Links](https://www.nngroup.com/articles/in-page-links/)
+- [ ] → [Short and shallow reading on the Internet? Not so fast](http://www.pbs.org/newshour/bb/short-and-shallow-reading-on-the-internet-not-so-fast/) `video`
+- [ ] → [Long vs. Short Articles as Content Strategy](https://www.nngroup.com/articles/content-strategy-long-vs-short/)
+- [ ] → [Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
+- [ ] → [Anchors OK? Re-Assessing In-Page Links](https://www.nngroup.com/articles/in-page-links/)
 - ["Skip Navigation" Links](http://webaim.org/techniques/skipnav/)
 - [Automatic Text Summarizer](http://autosummarizer.com)
 
