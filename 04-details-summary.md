@@ -32,7 +32,6 @@ Karl Gerstner’s [modular grid for Capital magazine](http://thinkingform.com/20
 >
 > —[Jan Tschichold](https://www.youtube.com/watch?v=mm-K8MGDpqU), calligrapher, typographer, and book designer
 
-
 Good typographic structure and style adds visual and cognitive clarity through the use of hierarchy, contrast, and white-space. Design for the reader, not the designer.
 
 ## Brief
@@ -43,7 +42,7 @@ Design a multi-page print magazine and companion single or multi-page website wi
 >
 > —[Simon Johnston](http://www.simonjohnstondesign.com), designer and educator
 
-Choose content that speaks to you — content that you care about. Exhibition catalogs, a single-subject digest (see [A Book Apart Briefs](https://abookapart.com/collections/briefs-collection)), or any other collection of content with plenty of text to be unavoidable and enough image to be agreeable.
+Choose content that speaks to you — content that you care about. An exhibition catalog, a single-subject digest (see [A Book Apart Briefs](https://abookapart.com/collections/briefs-collection)), or any other collection of content with plenty of text to be unavoidable and enough image to be agreeable.
 
 ## Work & Rubric
 
@@ -77,20 +76,21 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 
 `20 points`
 
-- [ ] Multi cut sheet, 13″ × 19″ or larger, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), saddle-stapled (booklet), full-color CMYK. `#options`
+Format, layout, and production.
+
+- [ ] Multi-sheet, 13″ × 19″ or larger, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), saddle-stapled (booklet), full-color CMYK. `#output` `#options`
   - Color laser photocopier/printer @ local/nearest print shop
-    -  Printing without a bleed: 13″ × 19″ is often the maximum cut sheet paper size for printing through the manual bypass tray of a production color photocopier/printer
+    -  Printing without a bleed: 13″ × 19″ is the maximum paper size when printing through the manual bypass tray of most production color photocopiers/printers
     - Print with a bleed bleed: 13″ × 19″ is the max paper size, but the max printing size, including bleed, is 12.5″ × 18.5″ with a final trim size of 12″ × 18″
     - Consider avoiding bleeds for a maximum paper size
   - Broadsheet and tabloid newsprint printing
     - [Newspaper Club](https://www.newspaperclub.com/choose)
   - Magazine Print-On-Demand (POD) vendors
     - [PrintNinja](http://www.printninja.com/pricing/magazines)
+- [ ] InDesign character and paragraph styles must have accurate content-based names and associated class names for HTML/CSS `#semantic`
+- [ ] Strict usage of style guide for color, typography, imagery, and navigation/links coherency and consistency
 - [ ] Design for all screen sizes, small (mobile first) to wide (laptop/desktop and print) `#responsive`
-- [ ] Single-column layout for small screens and multi-column layout, *only if the content decides*, for laptop/desktop and print `#keepitsimple`
-- [ ]
-
-
+  -  Single-column layout for small screens and multi-column content-out layout, *let the content decide*, for wider screens (tablet/laptop/desktop) and print `#keepitsimple`
 
 ### Typography
 
@@ -127,10 +127,10 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
 
 [Early Baseline magazine](http://blog.baselinemagazine.com/baseline/looking-back-at-baseline-17-31/) featuring the first wrap around jacket/poster
 
-- [ ] Design, print, and make a wrap around jacket/poster for your magazine `#specialtypaper` `#vellum` `#mylar`
+- [ ] Design and print a wrap around jacket/poster for your magazine `#specialtypaper` `#vellum` `#mylar`
 - [ ] Print a small edition of six (6) magazines for distribution `#reproduction`
-- [ ] Design and link a favicon `.ico` for your manifesto webpage
-- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your manifest webpage
+- [ ] Design and link a favicon `.ico` for your companion webpage
+- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your companion webpage
 
 ## Schedule
 
@@ -179,15 +179,15 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
 2. Print and test patterns on paper and screen
 3. Design and develop a web-based style guide by combining each style title into a cohesive work in progress guide for typographic structure and style.
     - Publish via GitHub
-    - Maintain and update repo; push commits with revisions as you work
+    - Maintain and update repo; commits updates as you work
 
 ## Lectures
 
 > We’re not designing pages, we’re designing systems of components.
 >
-> —[Stephen Hay]()
+> —[Stephen Hay](http://www.the-haystack.com)
 
-1. Typographic Editorial Design Survey
+1. **Typographic Editorial Design Survey**
     - Discuss past and present day structure and style of typographic editorial design
       - [Emigre](http://www.emigre.com/EMagView.php) magazine, was published between 1984 and 2005
       - [Octavo](http://www.hamishmuir.com/octavo.html), International Journal of Typography, was published between 1986 and 1992
@@ -197,12 +197,14 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
       - [Codex](http://codexmag.com/about/), The Journal of Typography, was published between 2011 and 2014
       - [Typenotes](https://shop.fontsmith.com), A Journal Dedicated to Typography and Graphic Design, in print since 2017
       - [Typographics](http://www.typographics.org), The Magazine for Type People, in print since 2017
-2. Designing Systems: Principles, Patterns, and Style Guides
+2. **Designing Systems: Principles, Patterns, and Style Guides**
     - Discuss how design principles, patterns, and style guides are part of the design process, not an endnote
-      - [Designing Programmes]()
+      - [What I learned from the $2,000 elusive design book “Designing Programmes”](https://medium.muz.li/what-i-learned-from-the-2-000-elusive-design-book-designing-programmes-f518faefcf4b)
+      - [“The Map & The Territory” by Ethan Marcotte](https://vimeo.com/120164988) `video`
       - [Design Systems](http://atomicdesign.bradfrost.com/chapter-1/), Chapter 1 of *Atomic Design* by Brad Frost
       - [BDConf: Stephen Hay presents Responsive Design Workflow](http://bradfrost.com/blog/mobile/bdconf-stephen-hay-presents-responsive-design-workflow/)
-3. Writing for Web and Mobile
+3. **Writing for Web and Mobile**
+    - [“Content First!” by Jeffrey Zeldman](https://vimeo.com/70977623) `video`
     - Discuss how to better write for writing for web and mobile using strategies from Stephanie Hay (Content Strategist) and Jakob Nielsen (Usability Expert)
 
 ## Readings & Resources
@@ -213,17 +215,17 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Too Long; Didn’t Read
 
-- [Short and shallow reading on the Internet? Not so fast](http://www.pbs.org/newshour/bb/short-and-shallow-reading-on-the-internet-not-so-fast/) `video`
-- [Long vs. Short Articles as Content Strategy](https://www.nngroup.com/articles/content-strategy-long-vs-short/)
-- [Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
-- [Automatic Text Summarizer](http://autosummarizer.com)
-- [Anchors OK? Re-Assessing In-Page Links](https://www.nngroup.com/articles/in-page-links/)
+[ ] → [Short and shallow reading on the Internet? Not so fast](http://www.pbs.org/newshour/bb/short-and-shallow-reading-on-the-internet-not-so-fast/) `video`
+[ ] → [Long vs. Short Articles as Content Strategy](https://www.nngroup.com/articles/content-strategy-long-vs-short/)
+[ ] → [Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
+[ ] → [Anchors OK? Re-Assessing In-Page Links](https://www.nngroup.com/articles/in-page-links/)
 - ["Skip Navigation" Links](http://webaim.org/techniques/skipnav/)
+- [Automatic Text Summarizer](http://autosummarizer.com)
 
 ### Writing
 
-- [*Lean Content* by Stephanie Hay](https://www.youtube.com/watch?v=g2QO9nZUVk4&feature=youtu.be) `video`
-- [Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)
+- [ ] → [*Lean Content* by Stephanie Hay](https://www.youtube.com/watch?v=g2QO9nZUVk4&feature=youtu.be) `video`
+- [ ] → [Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)
 - [Writing for the Web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 - [Reading Content on Mobile Devices](https://www.nngroup.com/articles/mobile-content/)
 - [Keep it short (but not too short)](http://www.learnnc.org/lp/editions/webwriting/708)
@@ -231,46 +233,44 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Single-Tasking
 
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`
 - [Information Overload And The Tricky Art Of Single-Tasking](http://www.npr.org/sections/alltechconsidered/2016/02/11/466177618/information-overload-and-the-tricky-art-of-single-tasking)
-- [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`
 
-### Inspiration
+### Influence
 
-- [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Paul Rand Discusses Typography](https://www.youtube.com/watch?v=r9Bi5dC2Zjg) `video`
 - [*The Form of the Book*, Digested](http://artequalswork.com/posts/form-of-the-book/)
-- [Tschichold, Dwiggins, Muller-Brockmann and “The Grid”](http://timbroadwater.com/2014/05/tschichold-dwiggins-muller-brockmann-and-the-grid/)
-- [Paul Rand Discusses Typography](https://www.youtube.com/watch?v=r9Bi5dC2Zjg) `video`
-- [*Resilience* with Jeremy Keith](https://vimeo.com/166140718) `video`
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Tschichold, Dwiggins, Muller-Brockmann and “The Grid”](http://timbroadwater.com/2014/05/tschichold-dwiggins-muller-brockmann-and-the-grid/)
+- [Programme as Grid](https://www.rototype.org/projektiranje/en/gerstner-3/)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Frameworks](https://alistapart.com/article/frameworks)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [“Resilience” by Jeremy Keith](https://vimeo.com/166140718) `video`
 - [Resilience](https://adactio.com/articles/11481)
 - [The Road To Resilient Web Design](https://www.smashingmagazine.com/2017/03/resilient-web-design/)
 - [*Resilient Web Design* by Jeremy Keith](https://resilientwebdesign.com) `#futureofpublishing`
 - [Hack the Cover](https://craigmod.com/journal/hack_the_cover/)
 - [Let’s Talk About Margins](https://craigmod.com/sputnik/lets_talk_about_margins/)
 - [Post-Artifact Books and Publishing](https://craigmod.com/journal/post_artifact/)
-- [Future Reading](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Future Reading](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Is anybody out there reading?](http://www.eyemagazine.com/review/article/is-anybody-out-there-reading)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
 - [Thinking Capital magazine No:1 designed by Karl Gerstner](http://thinkingform.com/2011/11/28/thinking-capital-magazine-no1-designed-by-karl-gerstner/)
 - ['Intro' from 'Issue N°3 — Karl Gerstner's Capital' by Flat File](https://readymag.com/flatfile/03-capital/)
-- [Programme as Grid](https://www.rototype.org/projektiranje/en/gerstner-3/)
-
-### Influence
-
-- [Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
 - [*Designing Programmes*, Digested](http://artequalswork.com/posts/designing-programmes/)
-- [The designer as Programmer](http://www.eyemagazine.com/review/article/the-designer-as-programmer)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [The designer as Programmer](http://www.eyemagazine.com/review/article/the-designer-as-programmer)
 - [In Memoriam: Karl Gerstner (1930-2016)](http://www.typeroom.eu/article/memoriam-karl-gerstner-1930-2016)
 - [Celebrating Karl Gerstner](https://medium.com/@bryanarchy/celebrating-karl-gerstner-b0ffbcf65c96)
-- [Frameworks](https://alistapart.com/article/frameworks)
 
 ### Style Guides
 
-- [Airbnb Building a Visual Language](https://airbnb.design/building-a-visual-language/)
-- [BBC Global Experience Language](http://www.bbc.co.uk/gel)
-- [USPS Style Guide](https://www.usps.com/styleguide/design/)
-- [Website Style Guide Resources](http://styleguides.io)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Airbnb Building a Visual Language](https://airbnb.design/building-a-visual-language/)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[BBC Global Experience Language](http://www.bbc.co.uk/gel)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[USPS Style Guide](https://www.usps.com/styleguide/design/)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[Website Style Guide Resources](http://styleguides.io)
 
 ### Color Contrast
 
-- [What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
+- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
 - [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
 - [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
@@ -288,7 +288,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### Practical Typography for Print & Web
 
-- [ ] → [*On Web Typography* with Jason Santa Maria](https://vimeo.com/34178417) `video`
+- [ ] → [“On Web Typography” by Jason Santa Maria](https://vimeo.com/34178417) `video`
 - [ ] → [Web Typography Overview](http://smad.jmu.edu/shen/webtype/)
 - [ ] → [Butterick’s Practical Typography](http://practicaltypography.com)
 - [ ] → [The Elements of Typographic Style Applied to the Web](http://webtypography.net/intro/)
