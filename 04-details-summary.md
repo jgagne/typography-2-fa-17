@@ -16,7 +16,7 @@
 
 # Details & Summary
 
-![Grid for Capital magazine](./img/04-karl-gerstner-grid-capital-magazine-1962.png)
+![Grid for Capital magazine](./img/04-karl-gerstner-grid-capital-1962.png)
 
 Karl Gerstner’s [modular grid for Capital magazine](http://thinkingform.com/2011/11/28/thinking-capital-magazine-no1-designed-by-karl-gerstner/), 1962
 
