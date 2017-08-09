@@ -19,7 +19,7 @@
 
 ![Design Research Unit Manifesto](./img/02-design-research-unit-michelle-cotton.png)
 
-Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograph](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72).
+Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograph](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72)
 
 > Content precedes design. Design in the absence of content is not design, it’s decoration.
 >
@@ -90,7 +90,6 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 `20 points`
 
 Text, scale, and white-space.
-
 
 - [ ] Select two to three different typefaces or fonts (weights and styles) for typesetting headings, body text, etc.
   - **Reminder:** *All fonts must be legally eligible for web embedding* [You Wouldn’t Think It, But Typeface Piracy Is a Big Problem](https://www.wired.com/2015/10/you-wouldnt-think-it-but-typeface-piracy-is-a-big-problem/)`#honorEULAs`
