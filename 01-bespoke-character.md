@@ -128,7 +128,7 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 
 ### Instructor
 
-1. As a class watch [*My Life in Typefaces* by Matthew Carter](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
+1. As a class watch [“My Life in Typefaces” by Matthew Carter](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
 2. As a class, discuss the importance and process of drawing type and watch [On Sketching](https://vimeo.com/11491627) `video`
 3. Demo how to create an InDesign grid template for sketching using the gridify technique with custom character, paragraph, and object styles (see `/warm-ups/01-ampersand-sketch-grid/` for reference)
 
@@ -192,9 +192,9 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 
 ## Lectures
 
-1. [Bezier Curves and Type Design: A Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
-2. Working with SVG
-3. Responsive Grid Systems in Print (poster) and Web (webpage)
+1. [**Bezier Curves and Type Design:** A Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
+2. **Working with Scalable Vector Graphics** `#svg`
+3. **Responsive Grid System Basics** in Print (poster) and Web (webpage)
 
 ## Schedule
 
@@ -223,8 +223,6 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
     - Presentation of webpage: Layout [full-page screenshots](https://developers.google.com/web/updates/2017/04/devtools-release-notes#screenshots) of small and wide screen views with added minimal browser chrome (download and edit [`.ai`](https://www.behance.net/gallery/11005655/Free-Chrome-Browser-Mockup-Design-Template-Vector)/[`.sketch`](https://dribbble.com/shots/3525505-Minimal-Browser-Template) template) on an 11″ × 17in (landscape orientation); print in color and on a [good heavy weight bright white laser paper](https://www.staples.com/Hammermill-11-inch-x-17-inch-60-lbs-Ultra-Smooth-Color-Copy-Digital-Cover/product_194936) `#buypaper`
     - `eow` Presentation and review of completed work
 
-- - -
-
 ## Design Criticism
 
 *Please skim before attending design critiques.*
@@ -249,7 +247,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [Our Middle Name](https://www.typography.com/blog/our-middle-name)
 - [Use the Best Available Ampersand](http://vault.simplebits.com/notebook/2008/08/14/ampersands-2/) `#classic`
 
-### Inspiration
+### Influence
 
 - [ ] → [Ampersand, &C.](http://uncommon-typography.tumblr.com)
 - [ampersandampersand](http://ampersandampersand.tumblr.com)
@@ -351,7 +349,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ## Books
 
-- [*In Progress* by Jessica Hische](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
+- [In Progress](http://buystufffrom.jessicahische.com/product/in-progress) `#buyme`
 
 ## Magazines
 
