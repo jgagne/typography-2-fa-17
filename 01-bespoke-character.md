@@ -36,18 +36,20 @@ Design a bespoke ampersand (&) for print and web, as an alternate glyph for a se
 
 Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
-### Standard
+### Routine
 
 `20 points`
 
 - [ ] Sketches begin on paper: graph, grid, dot, etc. (capture and document your process)
 - [ ] Maintain a repo for this project on GitHub with sketches et al. assets (`.indd`, `.idml`, `.html`, etc.)
-- [ ] Use of InDesign, Illustrator, or Sketch for ampersand design, and InDesign and Text Editor (HTML & CSS) for layout `#nophotoshop` `#nodreamweaver` `#nomuse`
+- [ ] Use of Illustrator, or Sketch for ampersand design; InDesign and Text Editor (HTML & CSS) for layout
 - [ ] Use of black only, designer black or rich black, no grayscale
 
-### Different Designs for Different Sizes
+### Details
 
 `20 points`
+
+Different designs for different sizes.
 
 Design an alternate `normal` or `bold` weight ampersand, working from a scale of a low-res favicon (1em × 1em or 16pt/px × 16pt/px) through a hi-res banner type size (16em × 16em or 256pt/px × 256pt/px). Save as a single `.ai/.sketch` file with multiple artboards, export as individual `.png` and `.svg` files, and generate a separate `.ico` file only for the favicon.
 
@@ -59,6 +61,8 @@ Design an alternate `normal` or `bold` weight ampersand, working from a scale of
 ### Character
 
 `20 points`
+
+Voice, tone, and technic.
 
 - [ ] Original (design)
 - [ ] Unpredictable (experience)

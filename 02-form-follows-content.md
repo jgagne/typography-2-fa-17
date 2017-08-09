@@ -45,13 +45,13 @@ Revive and layout a manifesto, of your choice, for today’s readers of print an
 
 Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
-### Standard
+### Routine
 
 `20 points`
 
 - [ ] Sketches begin on paper: graph, grid, dot, etc. (capture and document your process)
 - [ ] Maintain a repo for this project on GitHub with sketches et al. assets (`.indd`, `.idml`, `.html`, etc.)
-- [ ] Use of InDesign and Text Editor (HTML & CSS) for layout `#noillustrator` `#nophotoshop` `#nodreamweaver` `#nomuse`
+- [ ] Use of InDesign and Text Editor (HTML & CSS) for type and layout; Illustrator or Sketch for icons and illustrations; Photoshop for editing photographs and bitmap graphics
 - [ ] Use of black only (100% or 4-color black), no grayscale
 - [ ] Don’t stretch, compress, or slant fonts `#respectthetype`
 - [ ] Don’t mess with lowercase letter-spacing
@@ -85,10 +85,12 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Design for all screen sizes, small (mobile first) to wide (laptop/desktop and print) `#responsive`
 - [ ] Single-column layout for small screens and multi-column layout, *only if the content decides*, for laptop/desktop and print `#keepitsimple`
 
-
-### Form & Function
+### Typography
 
 `20 points`
+
+Text, scale, and white-space.
+
 
 - [ ] Select two to three different typefaces or fonts (weights and styles) for typesetting headings, body text, etc.
   - **Reminder:** *All fonts must be legally eligible for web embedding* [You Wouldn’t Think It, But Typeface Piracy Is a Big Problem](https://www.wired.com/2015/10/you-wouldnt-think-it-but-typeface-piracy-is-a-big-problem/)`#honorEULAs`
@@ -96,9 +98,11 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Based on the two (2) *sweet spot* body text and line spacing combinations, create a responsive typographic modular scale  for headings, body text, small print, etc. both for small screens and print `#realcontent`
 - [ ] Apply modular scale to layout: spacing between paragraphs and list items, line spacing, line length, page margins, etc.
 
-### Experience & Imagination
+### Character
 
 `20 points`
+
+Voice, tone, and technic.
 
 - [ ] Believability
 - [ ] Consistency
@@ -155,9 +159,9 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
     - `eow` Review and feedback (`1:1` and GitHub comments)
 3. Review and Takeaways
     - Revise modular scale and layout(s) after proofing on paper and testing on smartphone and laptop/desktop browsers
-    - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your leaflet, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745)
+    - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your leaflet, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745) `#backmatter`
     - Production-ready leaflet layout in InDesign and webpage layout in HTML/CSS for final feedback and review
-    - Leaflet proofing and printing (at school or a print shop) `#printafew`
+    - Leaflet proofing and printing (at school or a print shop) `#several`
     - `eow` Presentation and review of completed work
 
 *p.s. [Remove the Stress, Pick a Deadline](https://signalvnoise.com/posts/3963-remove-the-stress-pick-a-deadline)*
