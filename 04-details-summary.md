@@ -150,13 +150,14 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
     - Develop and apply responsive typographic modular scale
     - `wip` Draft magazine typesetting and single-column layout for print and web
     - `wip` Sketches for printed layout and single or multi-page website
+    - `eow` Print and make a [folding dummy](https://www.designersinsights.com/designer-resources/understanding-and-working-with-print/) of `wip` magazine layout
     - `eow` Publish all `wip` files to GitHub
     - `eow` Review and feedback (`1:1` and GitHub comments)
 3. Review and Takeaways
     - Revise modular scale and layout(s) after proofing on paper and testing on smartphone and laptop/desktop browsers
     - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your magazine, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745) `#backmatter`
     - Production-ready magazine layout in InDesign and webpage layout in HTML/CSS for final feedback and review
-    - Leaflet proofing and printing (at school or a print shop) `#printafew`
+    - Magazine proofing and printing (at school or a print shop) `#printafew`
     - `eow` Presentation and review of completed work
 
 ## Warm-Up
