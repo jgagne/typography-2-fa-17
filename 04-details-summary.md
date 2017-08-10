@@ -172,12 +172,14 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
       - Develop an A11Y friendly color palette
       - Include at least one (1) primary color and one (1) accent color, other than black and functional grays
     - Typography
-      - Match, closely match, or update the primary font(s) for headings and body text, ensuring that typography is consistent in print and web
+      - Match, closely match, or update the primary font(s) for body text and headings, ensuring that typography is consistent in print and web
       - Select a secondary web safe font for captions and small print, or even to replace body text
+      - Develop a basic modular scale for body text and headings
     - Imagery
       - Photograph or detailed illustration sources should be of notable quality, retina (2x) and non-retina (1x)
       - Line art and simple solid color illustration sources should be available, prepared, or redrawn as vector `#svg`
       - Sources must be cited with a canonical reference and link
+      - Develop and structure and style for an image; an image with a caption; a heading, an image with a caption, and a paragraph
     - Navigation & Links
       - Develop a structure and style for navigation and links, providing users with seamless navigation to content
 2. Print and test patterns on paper and screen
