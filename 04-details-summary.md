@@ -167,7 +167,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 ![Mozilla Type Sizes](./img/04-mozilla-type-sizes.png)
 
-[Type sizes](https://www.mozilla.org/en-US/styleguide/websites/sandstone/typefaces/) from Mozilla’s Style Guide
+Type sizes from [Mozilla’s Style Guide](https://www.mozilla.org/en-US/styleguide/websites/sandstone/typefaces/)
 
 > Want to grow as a designer? Spend most of your time thinking about how it works, as opposed to how it looks.
 >
