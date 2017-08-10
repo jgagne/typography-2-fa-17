@@ -337,6 +337,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [On Legibility – In Typography And Type Design](http://learn.scannerlicker.net/2014/11/14/on-legibility-in-typography-and-type-design/)
 - [ ] → [A study in typographic accessibility from Fontsmith](http://www.typographher.com/blog/2016/10/6/a-study-in-typographic-accessibility-from-fontsmith?rq=legibility)
 - [Legibility and Readability](http://smad.jmu.edu/shen/webtype/read.html)
+- [The 'Il1' Test](https://codepen.io/thedigitalman/details/XmGaEM)
 
 ![Jessica Hische’s Legibility Test](./img/02-jessica-hische-legibility-test.png)
 
