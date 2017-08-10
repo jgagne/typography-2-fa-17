@@ -60,14 +60,14 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Don’t mess with lowercase letter-spacing
 - [ ] Adjust letter-spacing when setting in all-caps
 - [ ] Get your kerning settings right `#metric
-- [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#staylegal`
+- [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
 - [ ] Exclusively use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
 
 ### Content
 
 `20 points`
 
-- [ ] At least 500 words unabridged (full read) and under 200 words abridged (quick read)
+- [ ] At least 500 words unabridged (full read) and fewer than 200 words abridged (quick read)
 - [ ] Inclusion of imagery: photographs, illustrations, charts, etc.
 - [ ] Provide navigation; skip to instruction (print) and link (web), or an obvious way to jump to either the full or quick read or vice versa.
 - [ ] Provide an About section or page with a colophon and link to the style guide
@@ -81,7 +81,7 @@ Format, layout, and production.
 - [ ] Multi-sheet, 13″ × 19″ or larger, double-sided, folded ([bone folder](https://en.wikipedia.org/wiki/Bone_folder)), saddle-stapled (booklet), full-color CMYK. `#output` `#options`
   - Color laser photocopier/printer @ local/nearest print shop
     -  Printing without a bleed: 13″ × 19″ is the maximum paper size when printing through the manual bypass tray of most production color photocopiers/printers
-    - Print with a bleed bleed: 13″ × 19″ is the max paper size, but the max printing size, including bleed, is 12.5″ × 18.5″ with a final trim size of 12″ × 18″
+    - Print with a bleed: 13″ × 19″ is the max paper size, but the max printing size, including bleed, is 12.5″ × 18.5″ with a final trim size of 12″ × 18″
     - Consider avoiding bleeds for a maximum paper size
   - Broadsheet and tabloid newsprint printing
     - [Newspaper Club](https://www.newspaperclub.com/choose)
@@ -192,7 +192,7 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
       - [Emigre](http://www.emigre.com/EMagView.php) magazine, was published between 1984 and 2005
       - [Octavo](http://www.hamishmuir.com/octavo.html), International Journal of Typography, was published between 1986 and 1992
       - [Grafik](https://www.grafik.net), was published between 2003 and 2011; currently published exclusively on the web
-      - [Baseline](http://www.baselinemagazine.com/about_contact/history_and_awards/), Internation TypoGraphics Magazine, in print since 1979
+      - [Baseline](http://www.baselinemagazine.com/about_contact/history_and_awards/), International TypoGraphics Magazine, in print since 1979
       - [Eye](http://www.eyemagazine.com) Magazine, The International Review of Graphic Design, in print since 1990
       - [Codex](http://codexmag.com/about/), The Journal of Typography, was published between 2011 and 2014
       - [Typenotes](https://shop.fontsmith.com), A Journal Dedicated to Typography and Graphic Design, in print since 2017
@@ -261,12 +261,13 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [In Memoriam: Karl Gerstner (1930-2016)](http://www.typeroom.eu/article/memoriam-karl-gerstner-1930-2016)
 - [Celebrating Karl Gerstner](https://medium.com/@bryanarchy/celebrating-karl-gerstner-b0ffbcf65c96)
 
-### Style Guides
+### Style and Pattern Guides
 
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Airbnb Building a Visual Language](https://airbnb.design/building-a-visual-language/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[BBC Global Experience Language](http://www.bbc.co.uk/gel)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[USPS Style Guide](https://www.usps.com/styleguide/design/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[Website Style Guide Resources](http://styleguides.io)
+- [ ] → [Airbnb Building a Visual Language](https://airbnb.design/building-a-visual-language/)
+- [ ] → [BBC Global Experience Language](http://www.bbc.co.uk/gel)
+- [ ] → [USPS Style Guide](https://www.usps.com/styleguide/design/)
+- [ ] → [A Pattern Apart](http://patterns.alistapart.com)
+- [Website Style Guide Resources](http://styleguides.io)
 
 ### Color Contrast
 
@@ -338,7 +339,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [Atomic Design](http://atomicdesign.bradfrost.com)
-- [Practical Typography](http://practicaltypography.com)
+- [Butterick’s Practical Typography](http://practicaltypography.com)
 - [Responsive Design: Patterns & Principles](https://abookapart.com/products/responsive-design-patterns-principles)
 - [8vo On the Outside](https://www.lars-mueller-publishers.com/8vo)
 
@@ -373,3 +374,4 @@ Pick a *free* flavor…
 ### Print Design & Layout
 
 - [InDesign](https://www.adobe.com/products/indesign.html)
+
