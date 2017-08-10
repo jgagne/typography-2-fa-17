@@ -161,9 +161,17 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 ## Warm-Up
 
+`90 minutes`
+
+### Style (Sheet) Guide
+
 ![Mozilla Type Sizes](./img/04-mozilla-type-sizes.png)
 
 [Type sizes](https://www.mozilla.org/en-US/styleguide/websites/sandstone/typefaces/) from Mozilla’s Style Guide
+
+> Want to grow as a designer? Spend most of your time thinking about how it works, as opposed to how it looks.
+>
+> —[Josh Puckett](https://dribbble.com/joshpuckett), designer
 
 Develop a style guide for color, typography, imagery, and navigation/links patterns and usage.
 
