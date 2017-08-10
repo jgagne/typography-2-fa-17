@@ -57,8 +57,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Don’t mess with lowercase letter-spacing
 - [ ] Adjust letter-spacing when setting in all-caps
 - [ ] Get your kerning settings right `#metric
-- [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
-- [ ] Exclusively use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
+- [ ] Use of only free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
+- [ ] Use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
 
 ### Details
 
@@ -136,7 +136,7 @@ Book and sleeve design by [Tracy Gelder](http://redlegdesign.tumblr.com), graphi
 - [ ] Design and print a sleeve or envelope for your manifesto leaflet `#totalpackage` `#diecutbyhand` `#differentpaper`
 - [ ] Print an edition of 16 leaflets for distribution to colleagues and instructor `#reproduction`
 - [ ] Design and link a favicon `.ico` for your manifesto webpage
-- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your manifesto webpage
+- [ ] Design and link a Twitter/OG image, 512px × 512px `.png`, for your manifesto webpage
 
 ## Schedule
 

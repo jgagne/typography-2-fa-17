@@ -3,12 +3,12 @@
 # Typography 2
 ## Lesson 4
 
-0. [Preface](details--summary)
+0. [Preface](#details--summary)
 1. [Brief](#brief)
 2. [Work & Rubric](#work--rubric)
 3. [Warm-Up](#warm-up)
 3. [Lectures](#lectures)
-5. [Schedule](#schedule)
+5. [Schedule](s)
 6. [Readings & Resources](#readings--resources)
 - [Books](#books)
 - [Magazines](#magazines)
@@ -60,8 +60,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Work
 - [ ] Don’t mess with lowercase letter-spacing
 - [ ] Adjust letter-spacing when setting in all-caps
 - [ ] Get your kerning settings right `#metric
-- [ ] Only use free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
-- [ ] Exclusively use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
+- [ ] Use of only free or paid fonts with an EULA stating that web-embedding is allowed `#legalaction`
+- [ ] Use of the `@font-face` syntax for embedding web fonts instead of propriety web services syntax from Google Fonts, Adobe Typekit, etc. `#webstandards`
 
 ### Content
 
@@ -130,7 +130,7 @@ Clean-up InDesign generated CSS `idGeneratedStyles.css` and save as `main.css`.
 - [ ] Design and print a wrap around jacket/poster for your magazine `#specialtypaper` `#vellum` `#mylar`
 - [ ] Print a small edition of six (6) magazines for distribution `#reproduction`
 - [ ] Design and link a favicon `.ico` for your companion webpage
-- [ ] Design and link a Twitter/OG, 512px × 512px `.png`, for your companion webpage
+- [ ] Design and link a Twitter/OG image, 512px × 512px `.png`, for your companion webpage
 
 ## Schedule
 
@@ -194,7 +194,7 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
 2. Print and test patterns on paper and screen
 3. Design and develop a web-based style guide by combining each style title into a cohesive work in progress guide for typographic structure and style.
     - Publish via GitHub
-    - Maintain and update repo; commits updates as you work
+    - Maintain and update repo; commit updates as you work
 
 ## Lectures
 
