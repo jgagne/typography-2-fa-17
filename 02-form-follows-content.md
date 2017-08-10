@@ -144,21 +144,21 @@ By week, and task(s).
 
 Feel free to copy and paste to make a *Schedule* issue task list (update `- Task` to `- [ ] Task`). [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
-1. Ideas, Learn, and Make
+1. **Ideas, Learn, and Make**
     - Kickoff meeting and lecture
     - Warm-Up
     - Research and work session
     - Meeting and lecture(s)
     - Selected Manifesto authored in Markdown
     - Typographic style tile(s) with selected typefaces
-2. Iterate, Revise, and Repeat
+2. **Iterate, Revise, and Repeat**
     - Meeting and lecture(s)
     - Develop and apply responsive typographic modular scale
     - `wip` Draft manifesto typesetting and single-column layout for print and web
     - `wip` Sketches for printed 4-page layout and single-page website
     - `eow` Publish all `wip` files to GitHub
     - `eow` Review and feedback (`1:1` and GitHub comments)
-3. Review and Takeaways
+3. **Deliverables, Review, and Takeaways**
     - Revise modular scale and layout(s) after proofing on paper and testing on smartphone and laptop/desktop browsers
     - Publish webpage via GitHub and include the `url` (see [URL Design](https://web.archive.org/web/20170202040319/http://warpspire.com/posts/url-design/)) in your leaflet, ideally in the [colophon](http://www.bookmakingwithkids.com/?p=745) `#backmatter`
     - Production-ready leaflet layout in InDesign and webpage layout in HTML/CSS for final feedback and review

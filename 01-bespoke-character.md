@@ -202,7 +202,7 @@ By week, and task(s).
 
 Feel free to copy and paste to make a *Schedule* issue task list (update `- Task` to `- [ ] Task`). [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
-1. Ideas, Learn, and Make
+1. **Ideas, Learn, and Make**
     - Kickoff meeting and lecture
     - Warm-Up
     - Research and work session
@@ -210,12 +210,12 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
     - First draft `wip` ampersand sketches — paper and digital
     - First draft `wip` poster and website comps — paper and digital
     - `eow` Review and feedback (`1:1` and GitHub comments)
-2. Iterate, Revise, and Repeat
+2. **Iterate, Revise, and Repeat**
     - Meeting and lecture(s)
     - Revised `wip` ampersand sketches — paper and digital
     - Revised `wip` poster and website layout comps — digital only
     - `eow` Review and feedback (`1:1` and GitHub comments)
-3. Review, Deliverables, and Takeaways
+3. **Deliverables, Review, and Takeaways**
     - Final ampersand sketches — digital only
     - Production-ready poster layout in InDesign and webpage layout in HTML/CSS for final feedback and review
     - Poster proofing and printing (at school or a print shop) `#printafew`
