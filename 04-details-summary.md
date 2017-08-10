@@ -244,6 +244,9 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [Reading Content on Mobile Devices](https://www.nngroup.com/articles/mobile-content/)
 - [Keep it short (but not too short)](http://www.learnnc.org/lp/editions/webwriting/708)
 - [Voice and Tone](http://styleguide.mailchimp.com/voice-and-tone/)
+- [Measure Text Readability](https://readable.io/text/)
+- [Hemingway Editor](http://www.hemingwayapp.com)
+- [Nitpicker](http://nitpickertool.com)
 
 ### Single-Tasking
 
@@ -285,8 +288,9 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Color Contrast
 
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`[What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
+- [ ] → [What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
 - [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
+- [Color Safe](http://colorsafe.co)
 - [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
 
