@@ -161,6 +161,10 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 ## Warm-Up
 
+![Mozilla Type Sizes](./img/04-mozilla-type-sizes.png)
+
+[Type sizes](https://www.mozilla.org/en-US/styleguide/websites/sandstone/typefaces/) from Mozilla’s Style Guide
+
 Develop a style guide for color, typography, imagery, and navigation/links patterns and usage.
 
 1. Working with only the quick read version of your content, text and image; develop a series of style tiles in print or web, your preference to start, exploring the following:
