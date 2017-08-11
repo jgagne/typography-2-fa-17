@@ -219,7 +219,7 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
       - [Design Systems](http://atomicdesign.bradfrost.com/chapter-1/), Chapter 1 of *Atomic Design* by Brad Frost
       - [BDConf: Stephen Hay presents Responsive Design Workflow](http://bradfrost.com/blog/mobile/bdconf-stephen-hay-presents-responsive-design-workflow/)
 3. **Improving Your InDesign Workflow**
-    - Discuss and demonstrate how scripts in InDesign can assit and automate common design workflow tasks.
+    - Discuss and demonstrate how the Book feature combined with scripts in InDesign can assist, automate, and improve your design workflow.
 4. **Writing for Web and Mobile**
     - [“Content First!” by Jeffrey Zeldman](https://vimeo.com/70977623) `video`
     - Discuss and demonstrate how to better write for writing for web and mobile using strategies from Stephanie Hay (Content Strategist) and Jakob Nielsen (Usability Expert)
