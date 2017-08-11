@@ -327,6 +327,11 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [The Bézier Game](http://bezier.method.ac)
 - [Vector icon speed runs](https://bjango.com/articles/iconspeedruns/)
 
+### InDesign Tutorials & Tools
+
+- [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
+- [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
+
 ### SVG
 
 - [Accessible SVGs](https://css-tricks.com/accessible-svgs/)
