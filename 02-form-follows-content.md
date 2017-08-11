@@ -388,7 +388,9 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### InDesign Resources & Tools
 
+- [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
 - [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`
+- [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
 - [MultiDo](https://www.65bit.com/software/easyhistory/) Free `Edit` > `Undo` & `Redo` Plug-in
 
 ### MD → HTML → InDesign Workflow
@@ -444,6 +446,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - [Web Typography](http://www.book.webtypography.net) `#buyme`
 - [On Web Typography](https://abookapart.com/products/on-web-typography)
+- [Inside Paragraphs: Typographic Fundamentals](http://insideparagraphs.com)
 - [Butterick’s Practical Typography](http://practicaltypography.com) `#donate`
 - [Explorations in Typography (Second Edition)](http://explorationsintypography.com)
 - [Responsive Web Design (Second Edition)](https://abookapart.com/products/responsive-web-design)

@@ -327,8 +327,12 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### InDesign Resources & Tools
 
+- [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
 - [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`
-- [MultiDo](https://www.65bit.com/software/easyhistory/) Free `Edit` > `Undo` & `Redo` Plug-in
+- [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
+- [ ] → [Scripting for Non-Scripters in Adobe InDesign](https://layersmagazine.com/scripting-for-non-scripters.html)
+- [ ] → [InDesign Baseline Grid: An InDesign Script to create Columns and Rows depending on a Baseline Grid](https://github.com/Muchete/IndesignBaselineGrid)
+- [InDesign Scripts for Bookdesigners](https://github.com/GitBruno/Novelty)
 
 ### Semantics
 
@@ -359,7 +363,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [Atomic Design](http://atomicdesign.bradfrost.com)
-- [Butterick’s Practical Typography](http://practicaltypography.com)
 - [Responsive Design: Patterns & Principles](https://abookapart.com/products/responsive-design-patterns-principles)
 - [8vo On the Outside](https://www.lars-mueller-publishers.com/8vo)
 
