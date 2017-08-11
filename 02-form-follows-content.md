@@ -389,7 +389,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 ### InDesign Tutorial & Tools
 
 - [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
-- [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`
+- [TypeEd](https://type-ed.com/search?q=indesign)
 - [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
 - [MultiDo](https://www.65bit.com/software/easyhistory/) Free `Edit` > `Undo` & `Redo` Plug-in
 

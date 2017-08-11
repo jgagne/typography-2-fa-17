@@ -330,12 +330,13 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 ### InDesign Tutorials & Tools
 
 - [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
-- [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`
+- [TypeEd](https://type-ed.com/search?q=indesign)
 - [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
-- [ ] → [Scripting for Non-Scripters in Adobe InDesign](https://layersmagazine.com/scripting-for-non-scripters.html)
+- [ ] → [Scripting for Non-Scripters in Adobe InDesign](https://layersmagazine.com/scripting-for-non-scripters.html) `video`
 - [ ] → [Useful InDesign Scripts And Plugins To Speed Up Your Work](https://www.smashingmagazine.com/2013/08/indesign-scripts-and-plugins-to-speed-up-your-work/)
 - [ ] → [InDesign Baseline Grid: An InDesign Script to create Columns and Rows depending on a Baseline Grid](https://github.com/Muchete/IndesignBaselineGrid)
 - [InDesign Scripts by Dan Rodney](https://www.danrodney.com/scripts/)
+- [Using the Power of the Book Feature in InDesign](https://layersmagazine.com/using-the-power-of-the-book-feature-in-indesign.html)
 - [InDesign Scripts for Bookdesigners](https://github.com/GitBruno/Novelty)
 
 ### Semantics
