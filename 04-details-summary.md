@@ -327,7 +327,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Webfont Test: Test up to three fonts](http://webfont-test.com)
 - [Web Font Test Tool](http://www.impallari.com/testing/)
 
-### InDesign Resources & Tools
+### InDesign Tutorials & Tools
 
 - [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
 - [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`

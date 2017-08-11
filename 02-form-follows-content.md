@@ -386,7 +386,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Create Bulleted or Numbered Lists](https://helpx.adobe.com/indesign/using/bullets-numbering.html)
 - [Formatting Tips for Bullets and Numbered Lists](https://indesignsecrets.com/formatting-tips-bullets-numbered-lists.php)
 
-### InDesign Resources & Tools
+### InDesign Tutorial & Tools
 
 - [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
 - [TypeEd](https://type-ed.com/search?q=indesign) `blog` `#tutorials`
