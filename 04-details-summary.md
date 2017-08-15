@@ -260,6 +260,10 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`
 - [Information Overload And The Tricky Art Of Single-Tasking](http://www.npr.org/sections/alltechconsidered/2016/02/11/466177618/information-overload-and-the-tricky-art-of-single-tasking)
 
+### Design Process
+
+- [ ] → ["Anatomy of a Design Decision" by Jared Spool](https://vimeo.com/20881152) `video`
+
 ### Influence
 
 - [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
@@ -333,9 +337,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### InDesign Tutorials & Tools
 
-- [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
-- [TypeEd](https://type-ed.com/search?q=indesign)
-- [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
 - [ ] → [Scripting for Non-Scripters in Adobe InDesign](https://layersmagazine.com/scripting-for-non-scripters.html) `video`
 - [ ] → [Useful InDesign Scripts And Plugins To Speed Up Your Work](https://www.smashingmagazine.com/2013/08/indesign-scripts-and-plugins-to-speed-up-your-work/)
 - [ ] → [InDesign Baseline Grid: An InDesign Script to create Columns and Rows depending on a Baseline Grid](https://github.com/Muchete/IndesignBaselineGrid)
@@ -370,10 +371,12 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ## Books
 
-- [Resilient Web Design](https://resilientwebdesign.com)
-- [Atomic Design](http://atomicdesign.bradfrost.com)
+- [Grid Systems: Principles of Organizing Type (Design Briefs)](https://www.amazon.com/Grid-Systems-Principles-Organizing-Design/dp/1568984650/)
 - [Responsive Design: Patterns & Principles](https://abookapart.com/products/responsive-design-patterns-principles)
+- [Atomic Design](http://atomicdesign.bradfrost.com)
+- [Resilient Web Design](https://resilientwebdesign.com)
 - [8vo On the Outside](https://www.lars-mueller-publishers.com/8vo)
+
 
 ## Magazines
 
