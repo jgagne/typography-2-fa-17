@@ -1,17 +1,9 @@
 # Typography 2
 ## Elements of Typographic Structure and Style for Print and Web
 
-> Choosing a typeface is not typography.
->
-> [iA](https://ia.net/topics/the-web-is-all-about-typography-period/), digital design and product agency
-
 > Typography is two-dimensional architecture, based on experience and imagination, and guided by rules and readability. And this is the purpose of typography: The arrangement of design elements within a given structure should allow the reader to easily focus on the message, without slowing down the speed of his reading.
 >
 > —[Hermann Zapf](https://qz.com/421855/hermann-zapf-the-font-designer-behind-palatino-and-zapf-dingbats-has-died-at-96/), type designer, writer, calligrapher, and designer (1918–2015)
-
-> 90 percent of design is typography. And the other 90 percent is whitespace.
->
-> —[Jeffrey Zeldman](https://studio.zeldman.com), designer, writer, and publisher
 
 ### Lessons
 
