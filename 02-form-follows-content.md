@@ -411,6 +411,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 - [ ] → [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
 - [ ] → [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [Why you should say HTML classes, CSS class selectors, or CSS pseudo-classes, but not CSS classes](http://tantek.com/2012/353/b1/why-html-classes-css-class-selectors)
 - [HTML5 Element Index](http://html5doctor.com/#glossary)
 - [The Book](http://www.shadycharacters.co.uk/books/the-book) `#buyme`
 - [W3C HTML Checker](https://validator.w3.org/nu/) Validate markup and check document outline
