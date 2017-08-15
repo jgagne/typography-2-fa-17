@@ -87,6 +87,7 @@ Format, layout, and production.
 - [ ] InDesign character and paragraph styles must have accurate content-based names and associated class names for HTML/CSS `#semantic`
 - [ ] Design for all screen sizes, small (mobile first) to wide (laptop/desktop and print) `#responsive`
   - Single-column layout for small screens and multi-column content-out layout, *let the content decide*, for wider screens (tablet/laptop/desktop) and print `#keepitsimple`
+
 ### Typography
 
 `20 points`
@@ -96,7 +97,7 @@ Text, scale, and white-space.
 - [ ] Select two to three different typefaces or fonts (weights and styles) for typesetting headings, body text, etc.
   - **Reminder:** *All fonts must be legally eligible for web embedding* [You Wouldn’t Think It, But Typeface Piracy Is a Big Problem](https://www.wired.com/2015/10/you-wouldnt-think-it-but-typeface-piracy-is-a-big-problem/)`#honorEULAs`
 - [ ] Determine the *sweet spot* body text and line spacing combination, separately, for small screens and print `#paragraphstyles`
-- [ ] Based on the two (2) *sweet spot* body text and line spacing combinations, create a responsive typographic modular scale  for headings, body text, small print, etc. both for small screens and print `#realcontent`
+- [ ] Based on the two (2) *sweet spot* body text and line spacing combinations, create a responsive typographic modular scale  for headings, body text, small print, etc. both for small screens and print [`#responsivetypesetting`](https://alistapart.com/d/responsive-web-design/ex/ex-article.html)
 - [ ] Apply modular scale to layout: spacing between paragraphs and list items, line spacing, line length, page margins, etc.
 
 ### Character
