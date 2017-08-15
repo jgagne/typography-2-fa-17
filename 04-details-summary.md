@@ -48,6 +48,10 @@ Choose content that speaks to you — content that you care about. An exhibition
 
 Copy and paste section into a new `issue` within your repo and title it as *Work & Rubric*. [`#tasklist`](https://github.com/blog/1825-task-lists-in-all-markdown-documents)
 
+> The process of design starts with exploration, but ends with refinement. The best designers carefully move from one to the other, making sure they spend enough time exploring before locking themselves into a design approach.
+>
+> —[Jared Spool](http://centercentre.com/about/jared-spool), usability expert
+
 ### Routine
 
 `20 points`
