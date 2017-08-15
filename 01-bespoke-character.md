@@ -183,12 +183,7 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 
 - [Sketching Out of My Comfort Zone: A Type Design Experiment](http://typographica.org/on-typography/sketching-out-of-my-comfort-zone-a-type-design-experiment/)
 - [Typeface Mechanics: 001](https://frerejones.com/blog/typeface-mechanics-001/)
-- [Daily Typesketch](https://www.flickr.com/photos/ninastoessinger/sets/72157629933739982/)
 - [Gridify Magic](https://indesignsecrets.com/tip-week-gridify-magic.php)
-
-### Extras
-
-- [The Grid System](http://thegridsystem.net/tags/indesign/)
 
 ## Lectures
 
@@ -267,6 +262,10 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [An alphabet made from classic rock band logos](http://kottke.org/17/07/an-alphabet-made-from-classic-rock-band-logos)
 - [Type Thursday (Medium)](https://medium.com/type-thursday)
 
+### Design Process
+
+- [ ] → [Why We Sketch](https://articles.uie.com/why_sketching/)
+
 ### Type Design
 
 - [ ] → [Design Notes: The Ampersand (&)](http://letterpunch.blogspot.com/2014/10/glyph-design-ampersand.html)
@@ -274,6 +273,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [A Typeface Designer’s Illustrated Tour of How to Create a Font](http://www.slate.com/blogs/the_eye/2015/02/02/obsidian_by_jonathan_hoefler_and_andy_clymer_of_hoefler_co_is_a_contemporary.html)
 - [ ] → [Bezier Curves and Type Design: A Tutorial](http://learn.scannerlicker.net/2014/04/16/bezier-curves-and-type-design-a-tutorial/)
 - [ ] → [Lo-Res by Zuzana Licko](http://www.emigre.com/EFfeature.php?di=101)
+- [Daily Typesketch](https://www.flickr.com/photos/ninastoessinger/sets/72157629933739982/)
 
 ### Font Hinting
 
