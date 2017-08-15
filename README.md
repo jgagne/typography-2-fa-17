@@ -10,19 +10,16 @@
 
 1. [Bespoke Character](01-bespoke-character.md)
 2. [Form Follows Content](02-form-follows-content.md)
-3. `wip` Lean Product
+3. `wip` [Handheld Friendly](03-handheld-friendly.md)
 4. [Details & Summary](04-details-summary.md)
-
 
 ### To-Dos
 
 - [Task List Gists](https://github.com/jgagne/typography-2-fa-17/issues/1)
 
-
 ### Author
 
 A course developed by Justin Gagne.
-
 
 ### License
 
