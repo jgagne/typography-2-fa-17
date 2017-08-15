@@ -24,13 +24,13 @@ Karl Gerstner’s [modular grid for Capital magazine](http://thinkingform.com/20
 >
 > —[Jan Tschichold](http://retinart.net/graphic-design/clarity-demanded-the-modernists/), calligrapher, typographer, and book designer
 
-> Users won’t read web content unless the text is clear, the words and sentences are simple, and the information is easy to understand. You can test all of this.
+> The details are not the details. They make the design.
 >
-> —[Jakob Nielsen](https://www.youtube.com/watch?v=eokSUSSm_hQ), usability expert
+> —[Charles Eames](http://www.eamesoffice.com/the-work/design-q-a/), designer
 
 > Every part of a text relates to every other part by a definite, logical relationship of emphasis and value, predetermined by content. It is up to the typographer to express this relationship clearly and visibly through type sizes and weight, arrangement of lines, use of color, photography, etc.
 >
-> —[Jan Tschichold](https://www.youtube.com/watch?v=mm-K8MGDpqU), calligrapher, typographer, and book designer
+> —[Jan Tschichold](http://retinart.net/graphic-design/clarity-demanded-the-modernists/), calligrapher, typographer, and book designer
 
 Good typographic structure and style adds visual and cognitive clarity through the use of hierarchy, contrast, and white-space. Design for the reader, not the designer.
 
