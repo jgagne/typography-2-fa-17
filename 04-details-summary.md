@@ -24,15 +24,15 @@ Karl Gerstner’s [modular grid for Capital magazine](http://thinkingform.com/20
 >
 > —[Jan Tschichold](http://retinart.net/graphic-design/clarity-demanded-the-modernists/), calligrapher, typographer, and book designer
 
-> The details are not the details. They make the design.
->
-> —[Charles Eames](http://www.eamesoffice.com/the-work/design-q-a/), designer
-
 > Every part of a text relates to every other part by a definite, logical relationship of emphasis and value, predetermined by content. It is up to the typographer to express this relationship clearly and visibly through type sizes and weight, arrangement of lines, use of color, photography, etc.
 >
 > —[Jan Tschichold](http://retinart.net/graphic-design/clarity-demanded-the-modernists/), calligrapher, typographer, and book designer
 
-Good typographic structure and style adds visual and cognitive clarity through the use of hierarchy, contrast, and white-space. Design for the reader, not the designer.
+> The details are not the details. They make the design.
+>
+> —[Charles Eames](http://www.eamesoffice.com/the-work/design-q-a/), designer
+
+Detailed typographic structure and style adds visual and cognitive clarity through the use of hierarchy, contrast, and white-space. Design for the reader, not the designer.
 
 ## Brief
 
