@@ -23,7 +23,7 @@ Design Research Unit’s manifesto on the cover of [Michelle Cotton’s monograp
 
 > Content precedes design. Design in the absence of content is not design, it’s decoration.
 >
-> —[Jeffrey Zeldman](https://www.zeldman.com/about/), designer, writer, and publisher
+> —[Jeffrey Zeldman](http://www.zeldman.com/2012/05/18/web-design-manifesto-2012/), designer, writer, and publisher
 
 > Typographic style is founded not on any one technology of typesetting or printing, but on the primitive yet subtle craft of writing.
 >
