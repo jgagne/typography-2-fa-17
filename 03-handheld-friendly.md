@@ -26,7 +26,7 @@
 
 ## Brief
 
-Design a small notebook, pocket to reporter size, filled with plain, ruled, graph, grid, dot, or any other format of paper wrapped in a rugged functional cover, and a companion webpage to showcase, promo, and even buy — based on a typographical theme or use case.
+Design a small notebook, pocket to reporter size, filled with plain, ruled, graph, grid, dot, or any other format of paper wrapped in a rugged functional cover, and a promotional companion website — all based on a typographical theme or use case.
 
 ## Readings & Resources
 
