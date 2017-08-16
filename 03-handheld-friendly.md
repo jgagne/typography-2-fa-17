@@ -41,3 +41,8 @@ Design a small notebook, pocket to reporter size, filled with plain, ruled, grap
 - [Graph Paper](https://en.wikipedia.org/wiki/Graph_paper)
 - [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period/)
 - [“There Is No Mobile Web” by Jeremy Keith](https://vimeo.com/32143919) `video`
+
+
+### Color
+
+- [Color is Relative](http://go.monotype.com/Video_Color-Is-Relative-THX.html) `video`

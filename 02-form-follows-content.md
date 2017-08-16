@@ -314,7 +314,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 ### Choosing Fonts
 
 - [ ] → [Choosing the Right Type](http://jessicahische.is/talkingtype) `#scrolldown`
-- [ ] → [Finding Fonts – A Guide](http://learn.scannerlicker.net/2017/08/02/finding-fonts-a-guide/)
+- [ ] → [Font Discovery](http://go.monotype.com/Video_Font-Discovery-THX.html) `video`
+- [ ] → [Picking Webfonts](http://go.monotype.com/Video_Picking-Web-Fonts-THX.html) `video`
 - [Selecting Typefaces for Body Text](https://practice.typekit.com/lesson/selecting-typefaces-for-body-text/)
 - [On Choosing Type](http://ilovetypography.com/2008/04/04/on-choosing-type/)
 - [What Font Should I Use? 5 Principles for Choosing and Using Typefaces](https://www.smashingmagazine.com/2010/12/what-font-should-i-use-five-principles-for-choosing-and-using-typefaces/)

@@ -239,6 +239,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [The Ampersand, part 1 of 2](http://www.shadycharacters.co.uk/2011/06/the-ampersand-part-1-of-2/)
 - [The Ampersand, part 2 of 2](http://www.shadycharacters.co.uk/2011/06/the-ampersand-part-2-of-2/)
 - [The Ampersand, part 2½ of 2](http://www.shadycharacters.co.uk/2011/07/the-ampersand-part-2%C2%BD-of-2/)
+- [Fashion-forward fonts for H&M](http://www.monotype.com/resources/case-studies/fashion-forward-fonts-for-hm/)
 - [Our Middle Name](https://www.typography.com/blog/our-middle-name)
 - [Use the Best Available Ampersand](http://vault.simplebits.com/notebook/2008/08/14/ampersands-2/) `#classic`
 

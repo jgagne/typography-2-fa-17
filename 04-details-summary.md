@@ -239,6 +239,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [Short and shallow reading on the Internet? Not so fast](http://www.pbs.org/newshour/bb/short-and-shallow-reading-on-the-internet-not-so-fast/) `video`
 - [ ] → [Long vs. Short Articles as Content Strategy](https://www.nngroup.com/articles/content-strategy-long-vs-short/)
 - [ ] → [Legibility, Readability, and Comprehension: Making Users Read Your Words](https://www.nngroup.com/articles/legibility-readability-comprehension/)
+- [ ] → [Designing for Split-Second Clarity](http://go.monotype.com/Video_Legibility-THX.html) `video`
 - [ ] → [Anchors OK? Re-Assessing In-Page Links](https://www.nngroup.com/articles/in-page-links/)
 - ["Skip Navigation" Links](http://webaim.org/techniques/skipnav/)
 - [Automatic Text Summarizer](http://autosummarizer.com)
@@ -260,14 +261,9 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`
 - [Information Overload And The Tricky Art Of Single-Tasking](http://www.npr.org/sections/alltechconsidered/2016/02/11/466177618/information-overload-and-the-tricky-art-of-single-tasking)
 
-### Typographic Details
-
-- [ ] → [Why do pull quotes exist on the web?](https://adactio.com/journal/11102)
-- [Pull Quotes on the Web](https://medium.com/@allanlasser/pullquotes-on-the-web-e13201999947)
-- [Finely Tuned Typography: Sweating the Small Stuff](http://www.monotype.com/resources/webinars/finely-tuned-typography-sweating-the-small-stuff/) `#review`
-
 ### Design Process
 
+- [ ] → [Agile Publishing](http://go.monotype.com/Video_Agile-Publishing-THX.html) `video`
 - [ ] → ["Anatomy of a Design Decision" by Jared Spool](https://vimeo.com/20881152) `video`
 
 ### Influence
@@ -323,6 +319,12 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 ![Jessica Hische’s Legibility Test](./img/02-jessica-hische-legibility-test.png)
 
 Does your site’s font pass the “il1” test? More insights on type from [Jessica Hische](http://jessicahische.is/talkingtype)
+
+### Typographic Details
+
+- [ ] → [Why do pull quotes exist on the web?](https://adactio.com/journal/11102)
+- [Pull Quotes on the Web](https://medium.com/@allanlasser/pullquotes-on-the-web-e13201999947)
+- [Finely Tuned Typography: Sweating the Small Stuff](http://www.monotype.com/resources/webinars/finely-tuned-typography-sweating-the-small-stuff/) `#review`
 
 ### Practical Typography for Print & Web
 
