@@ -379,7 +379,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ### Typographic Details
 
-- [ ] → [Finely tuned typography: sweating the small stuff](http://www.monotype.com/resources/webinars/finely-tuned-typography-sweating-the-small-stuff/)
+- [ ] → [Finely Tuned Typography: Sweating the Small Stuff](http://www.monotype.com/resources/webinars/finely-tuned-typography-sweating-the-small-stuff/)
 
 ### Formatting Lists
 

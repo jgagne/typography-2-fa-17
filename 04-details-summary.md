@@ -260,6 +260,12 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio`
 - [Information Overload And The Tricky Art Of Single-Tasking](http://www.npr.org/sections/alltechconsidered/2016/02/11/466177618/information-overload-and-the-tricky-art-of-single-tasking)
 
+### Typographic Details
+
+- [ ] → [Why do pull quotes exist on the web?](https://adactio.com/journal/11102)
+- [Pull Quotes on the Web](https://medium.com/@allanlasser/pullquotes-on-the-web-e13201999947)
+- [Finely Tuned Typography: Sweating the Small Stuff](http://www.monotype.com/resources/webinars/finely-tuned-typography-sweating-the-small-stuff/) `#review`
+
 ### Design Process
 
 - [ ] → ["Anatomy of a Design Decision" by Jared Spool](https://vimeo.com/20881152) `video`
@@ -291,6 +297,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Style and Pattern Guides
 
+- [ ] → [I Made a Style Guide for My Personal Web Site and You Should Too](https://www.zachleat.com/web/now-with-style-guide/?utm_source=CSS-Weekly&utm_campaign=Issue-278&utm_medium=web)
 - [ ] → [Airbnb Building a Visual Language](https://airbnb.design/building-a-visual-language/)
 - [ ] → [BBC Global Experience Language](http://www.bbc.co.uk/gel)
 - [ ] → [USPS Style Guide](https://www.usps.com/styleguide/design/)
