@@ -361,7 +361,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Typography Supply: An Inventory of Typographic Tools](http://typography.supply)
 - [Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator)
 - [Webfont Test: Test up to three fonts](http://webfont-test.com)
-- [Web Font Test Tool](http://www.impallari.com/testing/)
+- [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 
 ### Font Formats
 
