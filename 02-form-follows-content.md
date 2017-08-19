@@ -298,7 +298,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 - [Graphic Design Manifestos Revisited](http://www.amalieborghansen.com/graphic-design-manifestos-revisited)
 - [INtroducing IN-Pratica: The Italian Design Manifesto](http://www.printmag.com/design-culture-2/italian-design-manifesto/)
 - [The Labour Party Manifesto 2017](http://www.labour.org.uk/index.php/manifesto2017)
-- [ ] → [*Design and the Play Instinct* by Paul Rand](http://www.paul-rand.com/foundation/thoughts_designAndthePlayInstinct/)
+- [ ] → [“Design and the Play Instinct” by Paul Rand](http://www.paul-rand.com/foundation/thoughts_designAndthePlayInstinct/)
 - [Baseline Magazine](http://blog.baselinemagazine.com) `blog`
 
 ### Content-Based Layout
