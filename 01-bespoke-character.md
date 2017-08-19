@@ -390,7 +390,7 @@ Pick a *free* flavor…
 ### Digital & Icon Design
 
 - [Illustrator](https://www.adobe.com/products/illustrator.html)
-- [Sketch](https://www.sketchapp.com)
+- [Sketch](https://sketchapp.com/store/edu/) (50% off for students)
 
 ### Print Design & Layout
 
