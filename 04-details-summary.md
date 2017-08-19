@@ -390,7 +390,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 ## Magazines
 
 - [Grafik](https://www.grafik.net)
-- [Baseline](http://www.baselinemagazine.com/about_contact/history_and_awards/), Internation TypoGraphics Magazine
+- [Baseline](http://www.baselinemagazine.com/about_contact/history_and_awards/), International TypoGraphics Magazine
 - [Eye](http://www.eyemagazine.com) Magazine
 - [Typenotes](https://shop.fontsmith.com), A Journal Dedicated to Typography and Graphic Design
 - [Typographics](http://www.typographics.org), The Magazine for Type People
