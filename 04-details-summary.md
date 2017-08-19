@@ -397,13 +397,14 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 
 ## Software
 
-### Text Editor
+### Text Editors
 
 Pick a *free* flavor…
 
 - [Atom](https://atom.io)
 - [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only)
 - [Brackets](http://brackets.io)
+- [JS Bin](http://jsbin.com)
 - [HTML Builder Prototype](http://dev.artequalswork.com/builder/)
 
 ### Favicon Generator

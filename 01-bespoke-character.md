@@ -369,13 +369,15 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ## Software
 
-### Text Editor
+### Text Editors
 
 Pick a *free* flavor…
 
 - [Atom](https://atom.io)
 - [BBEdit](http://www.barebones.com/products/bbedit/) (Mac only)
 - [Brackets](http://brackets.io)
+- [JS Bin](http://jsbin.com)
+- [HTML Builder Prototype](http://dev.artequalswork.com/builder/)
 
 ### SVG Optimization
 
