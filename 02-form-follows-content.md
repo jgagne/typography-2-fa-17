@@ -294,7 +294,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 ### Influence
 
 - [ ] → [Design Research Unit, 1942–1972](http://apracticeforeverydaylife.com/projects/design-research-unit-1942-72)
-- [8vo: type and structure](http://www.eyemagazine.com/feature/article/8vo-type-and-structure)
+- [ ] → [8vo: type and structure](http://www.eyemagazine.com/feature/article/8vo-type-and-structure)
 - [Graphic Design Manifestos Revisited](http://www.amalieborghansen.com/graphic-design-manifestos-revisited)
 - [INtroducing IN-Pratica: The Italian Design Manifesto](http://www.printmag.com/design-culture-2/italian-design-manifesto/)
 - [The Labour Party Manifesto 2017](http://www.labour.org.uk/index.php/manifesto2017)
