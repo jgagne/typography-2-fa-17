@@ -331,7 +331,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 ### InDesign Tutorials & Tools
 
 - [InDesign Tutorials](https://helpx.adobe.com/indesign/tutorials.html)
-- [InDesign CC Visual Quickstart Guide (2014)](http://ptgmedia.pearsoncmg.com/images/9780321929570/samplepages/0321929578.pdf) `pdf`
+- [Adobe InDesign CC Classroom in a Book (2017)](http://ptgmedia.pearsoncmg.com/images/9780134664095/samplepages/9780134664095.pdf) `pdf`
 
 ### SVG
 
