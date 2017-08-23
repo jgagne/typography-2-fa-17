@@ -174,7 +174,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 `90 minutes`
 
-### Hello, World!
+## Hello, World!
 
 ![Hello World PostScript Demo](./img/02-hello-world-ps-demo.png)
 
@@ -190,7 +190,9 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 >
 > —[Frank Chimero](https://www.frankchimero.com/about/), designer, writer, and illustrator
 
-### Instructor
+### Details
+
+#### Instructor
 
 `60 minutes`
 
@@ -200,7 +202,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 3. Demo how to extend BBEdit’s support for PostScript syntax highlighting and MD to HTML conversion
 4. Demo how to author, view, and save a `Hello, World!` example in PS, SVG, MD, and HTML/CSS
 
-### Student(s)
+#### Student(s)
 
 `30 minutes`
 
@@ -221,14 +223,16 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 >
 > [Because your data belongs to YOU](https://www.scribus.net/because-your-data-belongs-to-you/)
 
-### Page Description to Plain Text
+### Resources
+
+#### Page Description to Plain Text
 
 - PS, [PostScript](https://en.wikipedia.org/wiki/PostScript)
 - SVG, [Scalable Vector Graphics](https://www.w3.org/TR/SVG11/)
 - MD, [Markdown](https://daringfireball.net/projects/markdown/)
 - HTML and CSS, [Hypertext Markup Language](https://www.w3.org/TR/html51/) and [Cascading Style Sheets](https://www.w3.org/TR/CSS21/)
 
-### Install
+#### Install
 
 Extras for BBEdit:
 

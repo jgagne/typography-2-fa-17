@@ -116,7 +116,7 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 
 `60 minutes`
 
-### And Per Sketch
+## And Per Sketch
 
 ![Ampersand Grid Sketch Template](./img/01-ampersand-sketch-grid.png)
 
@@ -126,13 +126,13 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 
 ### Details
 
-### Instructor
+#### Instructor
 
 1. As a class watch [“My Life in Typefaces” by Matthew Carter](https://www.ted.com/talks/matthew_carter_my_life_in_typefaces) `video`
 2. As a class, discuss the importance and process of drawing type and watch [On Sketching](https://vimeo.com/11491627) `video`
 3. Demo how to create an InDesign grid template for sketching using the gridify technique with custom character, paragraph, and object styles (see `/warm-ups/01-ampersand-sketch-grid/` for reference)
 
-### Student(s)
+#### Student(s)
 
 1. Select a serif, sans-serif, or monospace web safe font
 2. Setup and save ampersand sketch grid
@@ -152,14 +152,14 @@ Design an alternate *slanted* `italic` style ampersand, working from a scale of 
 
 Select from the safest, most widely supported system fonts on Mac and Win, of the web safe fonts.
 
-### Serif
+#### Serif
 
 - [Georgia](https://en.wikipedia.org/wiki/Georgia_(typeface))
   - Matthew Carter, Microsoft, 1993
 - [Times New Roman](https://en.wikipedia.org/wiki/Times_New_Roman)
   - Stanley Morrison, *The Times*, 1931
 
-### Sans-serif
+#### Sans-serif
 
 - [Arial](https://en.wikipedia.org/wiki/Arial)
   - Robin Nicholas and Patricia Saunders, IBM, 1982
@@ -172,7 +172,7 @@ Select from the safest, most widely supported system fonts on Mac and Win, of th
 - [Verdana](https://en.wikipedia.org/wiki/Verdana)
   - Matthew Carter, Microsoft, 1996
 
-### Monospace
+#### Monospace
 
 - [Courier](https://en.wikipedia.org/wiki/Courier_(typeface))
   - Howard “Bud” Kettler, IBM, 1955

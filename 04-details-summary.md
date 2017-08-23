@@ -168,7 +168,7 @@ Feel free to copy and paste to make a *Schedule* issue task list (update `- Task
 
 `90 minutes`
 
-### Style (Sheet) Guide
+## Style (Sheet) Guide
 
 ![Mozilla Type Sizes](./img/04-mozilla-type-sizes.png)
 
@@ -177,6 +177,8 @@ Type sizes from [Mozilla’s Style Guide](https://www.mozilla.org/en-US/stylegui
 > Want to grow as a designer? Spend most of your time thinking about how it works, as opposed to how it looks.
 >
 > —[Josh Puckett](https://dribbble.com/joshpuckett), designer
+
+### Details
 
 Develop a style guide for color, typography, imagery, and navigation/links patterns and usage.
 
@@ -385,7 +387,6 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 - [Atomic Design](http://atomicdesign.bradfrost.com)
 - [Resilient Web Design](https://resilientwebdesign.com)
 - [8vo On the Outside](https://www.lars-mueller-publishers.com/8vo)
-
 
 ## Magazines
 
