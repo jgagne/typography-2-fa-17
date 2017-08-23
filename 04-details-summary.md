@@ -183,19 +183,19 @@ Type sizes from [Mozilla’s Style Guide](https://www.mozilla.org/en-US/stylegui
 Develop a style guide for color, typography, imagery, and navigation/links patterns and usage.
 
 1. Working with only the quick read version of your content, text and image; develop a series of style tiles in print or web, your preference to start, exploring the following:
-    - Color Palette
+    - **Color Palette**
       - Develop an A11Y friendly color palette
       - Include at least one (1) primary color and one (1) accent color, other than black and functional grays
-    - Typography
+    - **Typography**
       - Match, closely match, or update the primary font(s) for body text and headings, ensuring that typography is consistent in print and web
       - Select a secondary web safe font for captions and small print, or even to replace body text
       - Develop a basic modular scale for body text and headings
-    - Imagery
+    - **Imagery**
       - Photograph or detailed illustration sources should be of notable quality, retina (2x) and non-retina (1x)
       - Line art and simple solid color illustration sources should be available, prepared, or redrawn as vector `#svg`
       - Sources must be cited with a canonical reference and link
       - Develop and structure and style for an image; an image with a caption; a heading, an image with a caption, and a paragraph
-    - Navigation & Links
+    - **Navigation & Links**
       - Develop a structure and style for navigation and links, providing users with seamless navigation to content
 2. Print and test patterns on paper and screen
 3. Design and develop a web-based style guide by combining each style title into a cohesive work in progress guide for typographic structure and style.
