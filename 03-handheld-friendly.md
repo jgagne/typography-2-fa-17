@@ -34,17 +34,27 @@ The 2-pack of notebooks may be identical or different, but based on the same the
 
 ### Notebooks
 
-- [Field Notes](https://fieldnotesbrand.com)
-- [Field Notes Brand: From Seed](https://vimeo.com/40182652) `video`
+- [ ] → [Field Notes](https://fieldnotesbrand.com)
+- [ ] → [Field Notes Brand: From Seed](https://vimeo.com/40182652) `video`
 - [Paper-Oh](http://www.paper-oh.com)
 
-### Formats
+### Paper Formats & Terms
 
 - [Graph Paper](https://en.wikipedia.org/wiki/Graph_paper)
-- [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period/)
-- [“There Is No Mobile Web” by Jeremy Keith](https://vimeo.com/32143919) `video`
+- [Glossary of Paper Terms](http://www.neenahpaper.com/resources/glossaryterms)
 
+### Influence
+
+- [ ] → [“Erik Spiekermann Interview” by Om Malik](https://pi.co/erik-spiekermann/)
+
+### Web Design
+
+- [ ] → [Web Design Is 95% Typography](https://ia.net/topics/the-web-is-all-about-typography-period/)
+- [“There Is No Mobile Web” by Jeremy Keith](https://vimeo.com/32143919) `video`
 
 ### Color
 
 - [Color is Relative](http://go.monotype.com/Video_Color-Is-Relative-THX.html) `video`
+
+
+
