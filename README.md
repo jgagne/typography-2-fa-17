@@ -12,6 +12,30 @@
 3. `wip` [Handheld Friendly](03-handheld-friendly.md)
 4. [Details & Summary](04-details-summary.md)
 
+### Objectives
+
+Attention to structuring information on and across sequences of pages; formal and expressive issues; create documents that are for print and screen.
+
+#### Formal
+
+- Proficiency of the fundamentals of typesetting documents for print and web
+- Proficiency in the use of semantic and decorative style for formal and expressive typographic design
+- Proficiency in the use of design systems for developing and implementing a flexible typographic style and design for publishing in print and web
+- Proficiency in the use of color for accessible and inclusive communication for sighted and non-sighted users
+
+#### Technical
+
+- Proficiency in typesetting, structuring, and laying out information using industry standards and best practices
+- Proficiency in the technology and tools for digital design and publishing workflow for print and web
+  - InDesign, Scripts, Markdown, HTML and CSS, etc.
+- Proficiency in producing high fidelity comps for presentation, physical and digital, for print and web
+
+#### Conceptual
+
+- Proficiency in designing for the reader; designing an accessible and inclusive experience for all users and devices
+- Proficiency in designing beyond pages; designing a system of flexible and reusable components
+- Proficiency in developing a living style guide for discussing and implementing structural and presentational semantics
+
 ### To-Dos
 
 - [Task List Gists](https://github.com/jgagne/typography-2-fa-17/issues/1)
