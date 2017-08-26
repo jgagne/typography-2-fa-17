@@ -218,9 +218,9 @@ Develop a style guide for color, typography, imagery, and navigation/links patte
       - [Codex](http://codexmag.com/about/), The Journal of Typography, was published between 2011 and 2014
       - [Typenotes](https://shop.fontsmith.com), A Journal Dedicated to Typography and Graphic Design, in print since 2017
       - [Typographics](http://www.typographics.org), The Magazine for Type People, in print since 2017
-2. **Designing Systems: Principles, Patterns, and Style Guides**
+2. **Design Systems: Principles, Patterns, and Style Guides**
     - Discuss and demonstrate how design principles, patterns, and style guides are part of the design process, not an endnote
-      - [What I learned from the $2,000 elusive design book “Designing Programmes”](https://medium.muz.li/what-i-learned-from-the-2-000-elusive-design-book-designing-programmes-f518faefcf4b)
+      - [Agile Publishing](http://go.monotype.com/Video_Agile-Publishing-THX.html) `video`
       - [“The Map & The Territory” by Ethan Marcotte](https://vimeo.com/120164988) `video`
       - [Design Systems](http://atomicdesign.bradfrost.com/chapter-1/), Chapter 1 of *Atomic Design* by Brad Frost
       - [BDConf: Stephen Hay presents Responsive Design Workflow](http://bradfrost.com/blog/mobile/bdconf-stephen-hay-presents-responsive-design-workflow/)
