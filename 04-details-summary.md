@@ -270,26 +270,27 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Influence
 
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Paul Rand Discusses Typography](https://www.youtube.com/watch?v=r9Bi5dC2Zjg) `video`
-- [*The Form of the Book*, Digested](http://artequalswork.com/posts/form-of-the-book/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Tschichold, Dwiggins, Muller-Brockmann and “The Grid”](http://timbroadwater.com/2014/05/tschichold-dwiggins-muller-brockmann-and-the-grid/)
+- [ ] → [The New Web Typography](https://robinrendle.com/essays/new-web-typography/)
+- [ ] → [Paul Rand Discusses Typography](https://www.youtube.com/watch?v=r9Bi5dC2Zjg) `video`
+- [ ] → [The Form of the Book*, Digested](http://artequalswork.com/posts/form-of-the-book/)
+- [ ] → [Tschichold, Dwiggins, Muller-Brockmann and “The Grid”](http://timbroadwater.com/2014/05/tschichold-dwiggins-muller-brockmann-and-the-grid/)
 - [Programme as Grid](https://www.rototype.org/projektiranje/en/gerstner-3/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Frameworks](https://alistapart.com/article/frameworks)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [“Resilience” by Jeremy Keith](https://vimeo.com/166140718) `video`
-- [Resilience](https://adactio.com/articles/11481)
+- [ ] → [Frameworks](https://alistapart.com/article/frameworks)
+- [ ] → [“Resilience” by Jeremy Keith](https://vimeo.com/166140718) `video`
+- [ ] → [Resilience](https://adactio.com/articles/11481)
 - [The Road To Resilient Web Design](https://www.smashingmagazine.com/2017/03/resilient-web-design/)
-- [*Resilient Web Design* by Jeremy Keith](https://resilientwebdesign.com) `#futureofpublishing`
+- [ ] → [*Resilient Web Design* by Jeremy Keith](https://resilientwebdesign.com) `#futureofpublishing`
 - [Hack the Cover](https://craigmod.com/journal/hack_the_cover/)
-- [Let’s Talk About Margins](https://craigmod.com/sputnik/lets_talk_about_margins/)
+- [ ] → [Let’s Talk About Margins](https://craigmod.com/sputnik/lets_talk_about_margins/)
 - [Post-Artifact Books and Publishing](https://craigmod.com/journal/post_artifact/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Future Reading](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Is anybody out there reading?](http://www.eyemagazine.com/review/article/is-anybody-out-there-reading)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
+- [Future Reading](https://aeon.co/essays/stagnant-and-dull-can-digital-books-ever-replace-print)
+- [ ] → [Is anybody out there reading?](http://www.eyemagazine.com/review/article/is-anybody-out-there-reading)
+- [Lessons From Swiss Style Graphic Design](https://www.smashingmagazine.com/2009/07/lessons-from-swiss-style-graphic-design/)
+- [What I learned from the $2,000 elusive design book “Designing Programmes”](https://medium.muz.li/what-i-learned-from-the-2-000-elusive-design-book-designing-programmes-f518faefcf4b)
 - [Thinking Capital magazine No:1 designed by Karl Gerstner](http://thinkingform.com/2011/11/28/thinking-capital-magazine-no1-designed-by-karl-gerstner/)
 - ['Intro' from 'Issue N°3 — Karl Gerstner's Capital' by Flat File](https://readymag.com/flatfile/03-capital/)
 - [*Designing Programmes*, Digested](http://artequalswork.com/posts/designing-programmes/)
-- [ ] → [Infomagical: Bootcamp](http://www.wnyc.org/story/infomagical-bootcamp) `audio` [The designer as Programmer](http://www.eyemagazine.com/review/article/the-designer-as-programmer)
+- [The designer as Programmer](http://www.eyemagazine.com/review/article/the-designer-as-programmer)
 - [In Memoriam: Karl Gerstner (1930-2016)](http://www.typeroom.eu/article/memoriam-karl-gerstner-1930-2016)
 - [Celebrating Karl Gerstner](https://medium.com/@bryanarchy/celebrating-karl-gerstner-b0ffbcf65c96)
 
@@ -365,6 +366,7 @@ Does your site’s font pass the “il1” test? More insights on type from [Jes
 ### Accessibility
 
 - [ ] → [The Accessibility Cheatsheet](https://bitsofco.de/the-accessibility-cheatsheet/)
+- [ ] → [10 guidelines to improve your web accessibility](https://aerolab.co/blog/web-accessibility/)
 
 ### Color Management
 
