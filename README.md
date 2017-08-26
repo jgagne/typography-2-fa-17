@@ -32,6 +32,7 @@ Attention to structuring information on and across sequences of pages; formal an
 
 #### Conceptual
 
+- Proficiency in separating content and structure from style and behavior
 - Proficiency in designing for the reader; designing an accessible and inclusive experience for all users and devices
 - Proficiency in designing beyond pages; designing a system of flexible and reusable components
 - Proficiency in developing a living style guide for discussing and implementing structural and presentational semantics
