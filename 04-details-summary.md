@@ -309,9 +309,9 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [ ] → [What is Color Contrast?](http://a11yproject.com/posts/what-is-color-contrast/)
 - [Color Accessibility Workflows](https://alistapart.com/article/color-accessibility-workflows)
-- [Color Safe](http://colorsafe.co)
-- [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
+- [ ] → [Accessible Colors](http://accessible-colors.com)
 - [Colour Contrast Analyser](https://www.paciellogroup.com/resources/contrastanalyser/)
+- [Color Safe](http://colorsafe.co)
 
 ### Legibility & Readability
 
