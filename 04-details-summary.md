@@ -267,6 +267,8 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 - [ ] → [Agile Publishing](http://go.monotype.com/Video_Agile-Publishing-THX.html) `video`
 - [ ] → ["Anatomy of a Design Decision" by Jared Spool](https://vimeo.com/20881152) `video`
+- [ ] → [Design Principles: A Guide to Less Shitty Feedback](https://medium.com/apegroup-texts/design-principles-a-guide-to-less-shitty-feedback-64e9541816c1)
+- [Awesome Design Principles: A Curated List of Good Design and Experience Principles](https://github.com/robinstickel/awesome-design-principles)
 
 ### Influence
 
