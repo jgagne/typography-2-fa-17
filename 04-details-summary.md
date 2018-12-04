@@ -248,7 +248,7 @@ Copy and paste section into a new `issue` within your repo and title it as *Read
 
 ### Writing
 
-- [ ] → [*Lean Content* by Stephanie Hay](https://www.youtube.com/watch?v=g2QO9nZUVk4&feature=youtu.be) `video`
+- [ ] → [“Lean Content” by Stephanie Hay](https://www.youtube.com/watch?v=g2QO9nZUVk4&feature=youtu.be) `video`
 - [ ] → [Be Succinct! (Writing for the Web)](https://www.nngroup.com/articles/be-succinct-writing-for-the-web/)
 - [Writing for the Web](https://www.usability.gov/how-to-and-tools/methods/writing-for-the-web.html)
 - [Reading Content on Mobile Devices](https://www.nngroup.com/articles/mobile-content/)
